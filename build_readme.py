@@ -29,7 +29,7 @@ def make_query():
     return """
 query {
   viewer {
-    repositories(privacy: PUBLIC) {
+    repositories(first: 100, privacy: PUBLIC) {
       nodes {
         name
         description
