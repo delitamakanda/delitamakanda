@@ -29,11 +29,7 @@ def make_query():
     return """
 query {
   viewer {
-    repositories(first: 100, privacy: PUBLIC) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
+    repositories(privacy: PUBLIC) {
       nodes {
         name
         description
