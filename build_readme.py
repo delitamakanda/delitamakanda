@@ -1,5 +1,3 @@
-# https://github.com/simonw/simonw
-
 from python_graphql_client import GraphqlClient
 import feedparser
 import httpx
@@ -8,6 +6,7 @@ import pathlib
 import re
 import os
 
+# thanks to https://github.com/simonw/simonw
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
