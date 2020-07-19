@@ -4,6 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 </td><td valign="top" width="34%">
