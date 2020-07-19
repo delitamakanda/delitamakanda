@@ -8,7 +8,7 @@ import os
 
 # thanks to https://github.com/simonw/simonw
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
+client = GraphqlClient(endpoint="https://api.github.com/graphql", "")
 
 
 TOKEN = os.environ.get("DELITAMAKANDA_TOKEN")
