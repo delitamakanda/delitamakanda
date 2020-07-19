@@ -4,7 +4,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [delitamakanda ](https://github.com/delitamakanda/delitamakanda/releases/tag/1.0.0) - 2020-07-19
+* [delitamakanda ](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 </td><td valign="top" width="34%">
