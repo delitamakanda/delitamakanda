@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dopejob](https://github.com/delitamakanda/dopejob)**: [](https://github.com/delitamakanda/dopejob/releases/tag/v1.1) - 2020-07-26
+<br>job board app in django framework 2.0
+* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
+<br>django backend ionic calendar app
 * **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v1.0) - 2020-07-20
 <br>Dating Tinder-like app in angular 7 (wip)
 * **[fanfiction-ionic-app](https://github.com/delitamakanda/fanfiction-ionic-app)**: [](https://github.com/delitamakanda/fanfiction-ionic-app/releases/tag/v1.0) - 2020-07-20
