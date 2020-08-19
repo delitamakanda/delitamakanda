@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
+<br>trello-like (reactjs, flask)
 * **[dopejob](https://github.com/delitamakanda/dopejob)**: [](https://github.com/delitamakanda/dopejob/releases/tag/v1.1) - 2020-07-26
 <br>job board app in django framework 2.0
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
