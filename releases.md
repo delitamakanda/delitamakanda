@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
@@ -11,8 +11,6 @@ All <!-- release_count starts -->11<!-- release_count ends --> of my released pr
 <br>django backend ionic calendar app
 * **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v1.0) - 2020-07-20
 <br>Dating Tinder-like app in angular 7 (wip)
-* **[fanfiction-ionic-app](https://github.com/delitamakanda/fanfiction-ionic-app)**: [](https://github.com/delitamakanda/fanfiction-ionic-app/releases/tag/v1.0) - 2020-07-20
-<br>ionic version of fanfiction (https://github.com/delitamakanda/fanfiction)
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
 <br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [](https://github.com/delitamakanda/scrumboard/releases/tag/v1.0) - 2020-07-19
