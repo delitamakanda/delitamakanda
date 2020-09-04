@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
+<br>flask application facebook-like
+* **[agenda](https://github.com/delitamakanda/agenda)**: [](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
+<br>django frontend ionic calendar app 
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
 * **[dopejob](https://github.com/delitamakanda/dopejob)**: [](https://github.com/delitamakanda/dopejob/releases/tag/v1.1) - 2020-07-26
