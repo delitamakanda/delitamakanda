@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delitamakanda&show_icons=true" alt="delitamakanda" /></p>
 
-### Recent releases
+<h3 align="left">Recent releases</h3>
 <!-- recent_releases starts -->
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 * [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
