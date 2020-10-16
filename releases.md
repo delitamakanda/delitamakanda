@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fanfiction-v2](https://github.com/delitamakanda/fanfiction-v2)**: [](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.0) - 2020-10-16
+<br>a fanfic application with vue3 and django
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 <br>flask application facebook-like
 * **[agenda](https://github.com/delitamakanda/agenda)**: [](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
