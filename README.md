@@ -24,7 +24,6 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
-* [fanfiction-v2 ](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.0) - 2020-10-16
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 * [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
@@ -32,6 +31,7 @@
 * [agenda-backend-api ](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
 * [dating-app ](https://github.com/delitamakanda/dating-app/releases/tag/v1.0) - 2020-07-20
 * [banky ](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
+* [scrumboard ](https://github.com/delitamakanda/scrumboard/releases/tag/v1.0) - 2020-07-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
