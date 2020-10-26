@@ -4,7 +4,7 @@ All <!-- release_count starts -->13<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[fanfiction-v2](https://github.com/delitamakanda/fanfiction-v2)**: [](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.0) - 2020-10-18
-<br>None
+<br>a fanfiction app in vue.js / django
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 <br>flask application facebook-like
 * **[agenda](https://github.com/delitamakanda/agenda)**: [](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
