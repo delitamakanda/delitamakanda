@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda/](https://github.com/delitamakanda/)
 
-- 📫 How to reach me **delita.makanda[at]gmail.com**
+- 📫 How to reach me **delita.makanda[at]gmail[dot]com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
