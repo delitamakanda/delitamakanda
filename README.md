@@ -24,8 +24,8 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [fanfiction-v2 ](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.1) - 2020-12-03
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.0) - 2020-11-20
-* [fanfiction-v2 ](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.0) - 2020-10-18
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 * [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
