@@ -3,6 +3,8 @@
 All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
+<br>Dating Tinder-like app in angular 7 (wip)
 * **[fanfiction-v2](https://github.com/delitamakanda/fanfiction-v2)**: [](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.1) - 2020-12-03
 <br>a fanfiction app in vue.js / django
 * **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.0) - 2020-11-20
@@ -17,8 +19,6 @@ All <!-- release_count starts -->14<!-- release_count ends --> of my released pr
 <br>job board app in django framework 2.0
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
 <br>django backend ionic calendar app
-* **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v1.0) - 2020-07-20
-<br>Dating Tinder-like app in angular 7 (wip)
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
 <br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [](https://github.com/delitamakanda/scrumboard/releases/tag/v1.0) - 2020-07-19
