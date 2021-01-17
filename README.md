@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [dopejob](https://github.com/delitamakanda/dopejob)
 
-- 🌱 I’m currently learning **angular + react**
+- 🌱 I’m currently learning **angular + react + svelte + vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda/](https://github.com/delitamakanda/)
 
