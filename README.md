@@ -46,6 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/delitamakanda/dopejob/pull/11) in [delitamakanda/dopejob](https://github.com/delitamakanda/dopejob)
+2. 🎉 Merged PR [#14](https://github.com/delitamakanda/Bukkakegram/pull/14) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+3. 🎉 Merged PR [#30](https://github.com/delitamakanda/fanfiction/pull/30) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 🎉 Merged PR [#29](https://github.com/delitamakanda/fanfiction/pull/29) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
