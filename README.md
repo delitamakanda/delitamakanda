@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda/](https://github.com/delitamakanda/)
 
-- 📫 How to reach me **delita[dot]makanda[at]gmail[dot]com**
+- 📫 How to reach me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/7Z9YnmXq)
 
 - 📄 Know about my experiences [http://delitamakanda.free.fr/](http://delitamakanda.free.fr/)
 
