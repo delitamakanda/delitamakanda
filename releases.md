@@ -3,12 +3,12 @@
 All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
+<br>marketplace app django 3
 * **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
 <br>Dating Tinder-like app in angular 8 (wip)
 * **[fanfiction-v2](https://github.com/delitamakanda/fanfiction-v2)**: [](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.1) - 2020-12-03
 <br>a fanfiction app in vue.js / django
-* **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.0) - 2020-11-20
-<br>marketplace app django 3
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 <br>flask application facebook-like
 * **[agenda](https://github.com/delitamakanda/agenda)**: [](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
