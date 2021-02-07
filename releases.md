@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[bugtracker](https://github.com/delitamakanda/bugtracker)**: [](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
+<br>bugtracker
 * **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
 <br>marketplace app django 3
 * **[dating-app](https://github.com/delitamakanda/dating-app)**: [](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
