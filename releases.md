@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[youtube-clone](https://github.com/delitamakanda/youtube-clone)**: [](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
+<br>None
 * **[bugtracker](https://github.com/delitamakanda/bugtracker)**: [](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
 <br>bugtracker
 * **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30

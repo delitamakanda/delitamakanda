@@ -28,6 +28,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [youtube-clone ](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
 * [bugtracker ](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
 * [dating-app ](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
@@ -35,7 +36,6 @@
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 * [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
-* [dopejob ](https://github.com/delitamakanda/dopejob/releases/tag/v1.1) - 2020-07-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
