@@ -28,12 +28,12 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [youtube-clone ](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
 * [bugtracker ](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
 * [dating-app ](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
 * [fanfiction-v2 ](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.1) - 2020-12-03
-* [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 * [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <!-- recent_releases ends -->

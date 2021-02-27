@@ -3,6 +3,8 @@
 All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
+<br>flask application facebook-like
 * **[youtube-clone](https://github.com/delitamakanda/youtube-clone)**: [](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
 <br>None
 * **[bugtracker](https://github.com/delitamakanda/bugtracker)**: [](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
@@ -13,8 +15,6 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 <br>Dating Tinder-like app in angular 8 (wip)
 * **[fanfiction-v2](https://github.com/delitamakanda/fanfiction-v2)**: [](https://github.com/delitamakanda/fanfiction-v2/releases/tag/v2.1) - 2020-12-03
 <br>a fanfiction app in vue.js / django
-* **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
-<br>flask application facebook-like
 * **[agenda](https://github.com/delitamakanda/agenda)**: [](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 <br>django frontend ionic calendar app 
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
