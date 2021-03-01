@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
-2. 🗣 Commented on [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
-3. ❗️ Opened issue [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
-4. 🎉 Merged PR [#16](https://github.com/delitamakanda/Bukkakegram/pull/16) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+1. 🎉 Merged PR [#28](https://github.com/delitamakanda/fanfiction/pull/28) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. ❗️ Closed issue [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
+3. 🗣 Commented on [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
+4. ❗️ Opened issue [#1](https://github.com/delitamakanda/marketplace/issues/1) in [delitamakanda/marketplace](https://github.com/delitamakanda/marketplace)
 <!--END_SECTION:activity-->
 
 </details>
