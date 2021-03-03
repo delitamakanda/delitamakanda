@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Délita Makanda</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [dopejob](https://github.com/delitamakanda/dopejob)
+- 🔭 I’m currently working on [fanfiction](https://github.com/delitamakanda/fanfiction)
 
 - 🌱 I’m currently learning **angular + react + svelte + vue**
 
