@@ -3,6 +3,8 @@
 All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.2) - 2021-03-19
+<br>a fanfiction app in vue.js
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 <br>flask application facebook-like
 * **[youtube-clone](https://github.com/delitamakanda/youtube-clone)**: [](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
@@ -31,6 +33,4 @@ All <!-- release_count starts -->15<!-- release_count ends --> of my released pr
 <br>e-learning django app (django, python)
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <br>Recent releases special repo
-* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.1) - 2018-10-17
-<br>a fanfiction app in vue.js
 <!-- recent_releases ends -->
