@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/delitamakanda/Bukkakegram/pull/21) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
-2. 🎉 Merged PR [#6](https://github.com/delitamakanda/agenda-backend-api/pull/6) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
-3. 🎉 Merged PR [#9](https://github.com/delitamakanda/treelo/pull/9) in [delitamakanda/treelo](https://github.com/delitamakanda/treelo)
-4. 🎉 Merged PR [#20](https://github.com/delitamakanda/Bukkakegram/pull/20) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+1. 🎉 Merged PR [#15](https://github.com/delitamakanda/dopejob/pull/15) in [delitamakanda/dopejob](https://github.com/delitamakanda/dopejob)
+2. 🎉 Merged PR [#21](https://github.com/delitamakanda/Bukkakegram/pull/21) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+3. 🎉 Merged PR [#6](https://github.com/delitamakanda/agenda-backend-api/pull/6) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+4. 🎉 Merged PR [#9](https://github.com/delitamakanda/treelo/pull/9) in [delitamakanda/treelo](https://github.com/delitamakanda/treelo)
 <!--END_SECTION:activity-->
 
 </details>
