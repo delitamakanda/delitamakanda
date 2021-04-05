@@ -3,6 +3,8 @@
 All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.1) - 2021-04-05
+<br>e-learning django app (django, python)
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.2) - 2021-03-19
 <br>a fanfiction app in vue.js
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
@@ -29,8 +31,6 @@ All <!-- release_count starts -->15<!-- release_count ends --> of my released pr
 <br>scrumboard with django and angularjs
 * **[Bukkakegram](https://github.com/delitamakanda/Bukkakegram)**: [](https://github.com/delitamakanda/Bukkakegram/releases/tag/v2.0) - 2020-07-19
 <br>social bookmark image app bukkakegram
-* **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.0) - 2020-07-19
-<br>e-learning django app (django, python)
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <br>Recent releases special repo
 <!-- recent_releases ends -->
