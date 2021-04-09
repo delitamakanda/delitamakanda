@@ -28,8 +28,8 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [fanfiction ](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
 * [elearning ](https://github.com/delitamakanda/elearning/releases/tag/v1.1) - 2021-04-05
-* [fanfiction ](https://github.com/delitamakanda/fanfiction/releases/tag/v1.2) - 2021-03-19
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [youtube-clone ](https://github.com/delitamakanda/youtube-clone/releases/tag/v1.0) - 2021-02-11
 * [bugtracker ](https://github.com/delitamakanda/bugtracker/releases/tag/v1.0) - 2021-02-07
