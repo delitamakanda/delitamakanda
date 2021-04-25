@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/delitamakanda/Bukkakegram/pull/24) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
-2. 🎉 Merged PR [#10](https://github.com/delitamakanda/treelo/pull/10) in [delitamakanda/treelo](https://github.com/delitamakanda/treelo)
-3. 🎉 Merged PR [#38](https://github.com/delitamakanda/fanfiction/pull/38) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#37](https://github.com/delitamakanda/fanfiction/pull/37) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#25](https://github.com/delitamakanda/Bukkakegram/pull/25) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+2. 🎉 Merged PR [#24](https://github.com/delitamakanda/Bukkakegram/pull/24) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+3. 🎉 Merged PR [#10](https://github.com/delitamakanda/treelo/pull/10) in [delitamakanda/treelo](https://github.com/delitamakanda/treelo)
+4. 🎉 Merged PR [#38](https://github.com/delitamakanda/fanfiction/pull/38) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
