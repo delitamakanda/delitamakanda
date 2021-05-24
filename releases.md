@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0) - 2021-05-24
+<br>None
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
 <br>a fanfiction app in vue.js
 * **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.1) - 2021-04-05
