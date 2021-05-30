@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/delitamakanda/Bukkakegram/pull/28) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
-2. 🎉 Merged PR [#27](https://github.com/delitamakanda/Bukkakegram/pull/27) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
-3. 🎉 Merged PR [#24](https://github.com/delitamakanda/dating-app/pull/24) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
-4. 🎉 Merged PR [#23](https://github.com/delitamakanda/dating-app/pull/23) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
+1. ❌ Closed PR [#30](https://github.com/delitamakanda/Bukkakegram/pull/30) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+2. 🎉 Merged PR [#28](https://github.com/delitamakanda/Bukkakegram/pull/28) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+3. 🎉 Merged PR [#27](https://github.com/delitamakanda/Bukkakegram/pull/27) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+4. 🎉 Merged PR [#24](https://github.com/delitamakanda/dating-app/pull/24) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
 <!--END_SECTION:activity-->
 
 </details>
