@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [fanfiction](https://github.com/delitamakanda/fanfiction)
 
-- 🌱 I’m currently learning **angular + react + svelte + vue**
+- 🌱 I’m currently learning more **angular + react + vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda/](https://github.com/delitamakanda/)
 
