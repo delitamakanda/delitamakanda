@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/delitamakanda/scrumboard/pull/13) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-2. 🎉 Merged PR [#12](https://github.com/delitamakanda/scrumboard/pull/12) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-3. 🎉 Merged PR [#44](https://github.com/delitamakanda/fanfiction/pull/44) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#42](https://github.com/delitamakanda/fanfiction/pull/42) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#33](https://github.com/delitamakanda/Bukkakegram/pull/33) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+2. 🎉 Merged PR [#35](https://github.com/delitamakanda/Bukkakegram/pull/35) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+3. ❌ Closed PR [#13](https://github.com/delitamakanda/scrumboard/pull/13) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
+4. 🎉 Merged PR [#12](https://github.com/delitamakanda/scrumboard/pull/12) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
 <!--END_SECTION:activity-->
 
 </details>
