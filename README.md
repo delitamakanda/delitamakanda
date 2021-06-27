@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/delitamakanda/agenda-backend-api/pull/8) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
-2. 🎉 Merged PR [#29](https://github.com/delitamakanda/dating-app/pull/29) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
-3. 🎉 Merged PR [#27](https://github.com/delitamakanda/dating-app/pull/27) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
-4. 🎉 Merged PR [#33](https://github.com/delitamakanda/Bukkakegram/pull/33) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+1. 🎉 Merged PR [#36](https://github.com/delitamakanda/Bukkakegram/pull/36) in [delitamakanda/Bukkakegram](https://github.com/delitamakanda/Bukkakegram)
+2. 🎉 Merged PR [#20](https://github.com/delitamakanda/dopejob/pull/20) in [delitamakanda/dopejob](https://github.com/delitamakanda/dopejob)
+3. 🎉 Merged PR [#18](https://github.com/delitamakanda/dopejob/pull/18) in [delitamakanda/dopejob](https://github.com/delitamakanda/dopejob)
+4. ❌ Closed PR [#14](https://github.com/delitamakanda/banky/pull/14) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
 <!--END_SECTION:activity-->
 
 </details>
