@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
+<br>None
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0) - 2021-05-24
 <br>None
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
