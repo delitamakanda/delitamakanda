@@ -3,6 +3,8 @@
 All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[banky](https://github.com/delitamakanda/banky)**: [v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
+<br>budget app react js and django
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
 <br>None
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0) - 2021-05-24
@@ -25,8 +27,6 @@ All <!-- release_count starts -->15<!-- release_count ends --> of my released pr
 <br>job board app in django framework 2.0
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
 <br>django backend ionic calendar app
-* **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
-<br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [](https://github.com/delitamakanda/scrumboard/releases/tag/v1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
 * **[Bukkakegram](https://github.com/delitamakanda/Bukkakegram)**: [](https://github.com/delitamakanda/Bukkakegram/releases/tag/v2.0) - 2020-07-19

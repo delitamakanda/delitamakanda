@@ -28,6 +28,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [banky v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
 * [dopejob-v2 ](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
 * [GroceryApp ](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0) - 2021-05-24
 * [fanfiction ](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
@@ -35,7 +36,6 @@
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
 * [dating-app ](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
-* [agenda ](https://github.com/delitamakanda/agenda/releases/tag/v1.0) - 2020-09-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
