@@ -3,6 +3,8 @@
 All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.2) - 2021-07-06
+<br>e-learning django app (django, python)
 * **[banky](https://github.com/delitamakanda/banky)**: [v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
 <br>budget app react js and django
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
@@ -11,8 +13,6 @@ All <!-- release_count starts -->15<!-- release_count ends --> of my released pr
 <br>None
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
 <br>a fanfiction app in vue.js
-* **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.1) - 2021-04-05
-<br>e-learning django app (django, python)
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 <br>flask application facebook-like
 * **[marketplace](https://github.com/delitamakanda/marketplace)**: [](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
