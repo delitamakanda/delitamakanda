@@ -35,7 +35,7 @@
 * [fanfiction ](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3) - 2021-04-09
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
-* [dating-app ](https://github.com/delitamakanda/dating-app/releases/tag/v2.2) - 2020-12-18
+* [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
