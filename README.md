@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/delitamakanda/agenda-backend-api/pull/7) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
-2. 🎉 Merged PR [#34](https://github.com/delitamakanda/elearning/pull/34) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 🎉 Merged PR [#35](https://github.com/delitamakanda/elearning/pull/35) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#40](https://github.com/delitamakanda/elearning/pull/40) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#41](https://github.com/delitamakanda/elearning/pull/41) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. 🎉 Merged PR [#7](https://github.com/delitamakanda/agenda-backend-api/pull/7) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+3. 🎉 Merged PR [#34](https://github.com/delitamakanda/elearning/pull/34) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#35](https://github.com/delitamakanda/elearning/pull/35) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
