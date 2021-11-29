@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/delitamakanda/delitamakanda/pull/1) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
-2. 💪 Opened PR [#1](https://github.com/delitamakanda/delitamakanda/pull/1) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
-3. 🎉 Merged PR [#1](https://github.com/delitamakanda/dopejob-v2/pull/1) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-4. ❗️ Closed issue [#42](https://github.com/delitamakanda/elearning/issues/42) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🗣 Commented on [#554](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/issues/554) in [EddyVerbruggen/Calendar-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin)
+2. 💪 Opened PR [#47](https://github.com/delitamakanda/fanfiction/pull/47) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. 💪 Opened PR [#2](https://github.com/delitamakanda/dopejob-v2/pull/2) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+4. 🎉 Merged PR [#1](https://github.com/delitamakanda/delitamakanda/pull/1) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
 <!--END_SECTION:activity-->
 
 </details>
