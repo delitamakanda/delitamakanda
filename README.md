@@ -46,10 +46,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/delitamakanda/delivery-app/pull/1) in [delitamakanda/delivery-app](https://github.com/delitamakanda/delivery-app)
-2. 💪 Opened PR [#1](https://github.com/delitamakanda/delivery-app/pull/1) in [delitamakanda/delivery-app](https://github.com/delitamakanda/delivery-app)
-3. 🗣 Commented on [#554](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/issues/554) in [EddyVerbruggen/Calendar-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin)
-4. 💪 Opened PR [#47](https://github.com/delitamakanda/fanfiction/pull/47) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#15](https://github.com/delitamakanda/treelo/pull/15) in [delitamakanda/treelo](https://github.com/delitamakanda/treelo)
+2. ❌ Closed PR [#1](https://github.com/delitamakanda/delivery-app/pull/1) in [delitamakanda/delivery-app](https://github.com/delitamakanda/delivery-app)
+3. 💪 Opened PR [#1](https://github.com/delitamakanda/delivery-app/pull/1) in [delitamakanda/delivery-app](https://github.com/delitamakanda/delivery-app)
+4. 🗣 Commented on [#554](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/issues/554) in [EddyVerbruggen/Calendar-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin)
 <!--END_SECTION:activity-->
 
 </details>
