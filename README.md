@@ -28,11 +28,11 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
-* [fanfiction v1.3.2](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.2) - 2021-11-01
+* [fanfiction v1.3.3](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.3) - 2022-01-25
 * [elearning v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29
 * [banky v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
 * [dopejob-v2 ](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
-* [GroceryApp ](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0) - 2021-05-24
+* [GroceryApp v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [marketplace ](https://github.com/delitamakanda/marketplace/releases/tag/v1.1) - 2021-01-30
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
