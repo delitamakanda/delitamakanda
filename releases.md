@@ -3,7 +3,7 @@
 All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.3.3](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.3) - 2022-01-25
+* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.3.4](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.4) - 2022-02-13
 <br>a fanfiction app in vue.js
 * **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29
 <br>e-learning django app (django, python)

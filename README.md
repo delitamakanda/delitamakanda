@@ -28,7 +28,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
-* [fanfiction v1.3.3](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.3) - 2022-01-25
+* [fanfiction v1.3.4](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.4) - 2022-02-13
 * [elearning v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29
 * [banky v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
 * [dopejob-v2 ](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0) - 2021-06-27
