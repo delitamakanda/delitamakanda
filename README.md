@@ -9,8 +9,6 @@
 
 - 📫 How to reach me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/7Z9YnmXq)
 
-- 📄 Know about my experiences [http://delitamakanda.free.fr/](http://delitamakanda.free.fr/)
-
 - ⚡ Fun fact **I love working**
 
 ### Spotify Playing 🎧
