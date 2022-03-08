@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
+<br>None
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.3.4](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.4) - 2022-02-13
 <br>a fanfiction app in vue.js
 * **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29

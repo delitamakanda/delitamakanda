@@ -26,6 +26,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [invoice-cms v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 * [fanfiction v1.3.4](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.4) - 2022-02-13
 * [elearning v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29
 * [banky v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
@@ -33,7 +34,6 @@
 * [GroceryApp v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
 * [socialite ](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
 * [treelo ](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
-* [agenda-backend-api ](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
