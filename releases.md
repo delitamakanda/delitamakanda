@@ -21,7 +21,7 @@ All <!-- release_count starts -->11<!-- release_count ends --> of my released pr
 <br>trello-like (reactjs, flask)
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
 <br>django backend ionic calendar app
-* **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [](https://github.com/delitamakanda/scrumboard/releases/tag/v1.0) - 2020-07-19
+* **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <br>Recent releases special repo
