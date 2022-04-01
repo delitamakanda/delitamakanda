@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/delitamakanda/scrumboard/pull/15) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-2. ❌ Closed PR [#16](https://github.com/delitamakanda/scrumboard/pull/16) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-3. 🎉 Merged PR [#14](https://github.com/delitamakanda/scrumboard/pull/14) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-4. ❗️ Opened issue [#16](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging/issues/16) in [chemerisuk/cordova-plugin-firebase-inappmessaging](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging)
+1. 💪 Opened PR [#17](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging/pull/17) in [chemerisuk/cordova-plugin-firebase-inappmessaging](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging)
+2. 🎉 Merged PR [#15](https://github.com/delitamakanda/scrumboard/pull/15) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
+3. ❌ Closed PR [#16](https://github.com/delitamakanda/scrumboard/pull/16) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
+4. 🎉 Merged PR [#14](https://github.com/delitamakanda/scrumboard/pull/14) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
 <!--END_SECTION:activity-->
 
 </details>
