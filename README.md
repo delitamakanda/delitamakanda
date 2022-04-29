@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging/pull/17) in [chemerisuk/cordova-plugin-firebase-inappmessaging](https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging)
-2. 🎉 Merged PR [#15](https://github.com/delitamakanda/scrumboard/pull/15) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-3. ❌ Closed PR [#16](https://github.com/delitamakanda/scrumboard/pull/16) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-4. 🎉 Merged PR [#14](https://github.com/delitamakanda/scrumboard/pull/14) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
+1. 🎉 Merged PR [#20](https://github.com/delitamakanda/banky/pull/20) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+2. 🎉 Merged PR [#21](https://github.com/delitamakanda/banky/pull/21) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+3. 🎉 Merged PR [#71](https://github.com/delitamakanda/fanfiction/pull/71) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 🎉 Merged PR [#74](https://github.com/delitamakanda/fanfiction/pull/74) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
