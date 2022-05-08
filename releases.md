@@ -1,12 +1,14 @@
 # Released projects
 
-All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.4.0](https://github.com/delitamakanda/fanfiction/releases/tag/v1.4.0) - 2022-05-06
+<br>a fanfiction app in vue.js
+* **[cordova-plugin-firebase-inappmessaging-ka2](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2)**: [v5.1.0](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2/releases/tag/v5.1.0) - 2022-05-04
+<br>Cordova plugin for Firebase In-App Messaging
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
-* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.3.4](https://github.com/delitamakanda/fanfiction/releases/tag/v1.3.4) - 2022-02-13
-<br>a fanfiction app in vue.js
 * **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3](https://github.com/delitamakanda/elearning/releases/tag/v1.3) - 2021-08-29
 <br>e-learning django app (django, python)
 * **[banky](https://github.com/delitamakanda/banky)**: [v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
