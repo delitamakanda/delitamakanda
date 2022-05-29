@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/delitamakanda/fanfiction/pull/86) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 💪 Opened PR [#86](https://github.com/delitamakanda/fanfiction/pull/86) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#85](https://github.com/delitamakanda/fanfiction/pull/85) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 💪 Opened PR [#85](https://github.com/delitamakanda/fanfiction/pull/85) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. ❌ Closed PR [#5](https://github.com/delitamakanda/dopejob-v2/pull/5) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+2. ❌ Closed PR [#8](https://github.com/delitamakanda/dopejob-v2/pull/8) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. ❌ Closed PR [#9](https://github.com/delitamakanda/dopejob-v2/pull/9) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+4. ❌ Closed PR [#10](https://github.com/delitamakanda/dopejob-v2/pull/10) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
 <!--END_SECTION:activity-->
 
 </details>
