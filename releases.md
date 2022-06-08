@@ -3,6 +3,8 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.1.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.1.0) - 2022-06-07
+<br>django backend ionic calendar app
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
 <br>None
 * **[cordova-plugin-firebase-inappmessaging-ka2](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2)**: [v5.2.0](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2/releases/tag/v5.2.0) - 2022-05-20
@@ -21,8 +23,6 @@ All <!-- release_count starts -->12<!-- release_count ends --> of my released pr
 <br>flask application facebook-like
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
-* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0) - 2020-07-26
-<br>django backend ionic calendar app
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
