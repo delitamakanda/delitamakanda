@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/delitamakanda/dopejob-v2/pull/5) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-2. ❌ Closed PR [#8](https://github.com/delitamakanda/dopejob-v2/pull/8) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-3. ❌ Closed PR [#9](https://github.com/delitamakanda/dopejob-v2/pull/9) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-4. ❌ Closed PR [#10](https://github.com/delitamakanda/dopejob-v2/pull/10) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+1. 🎉 Merged PR [#14](https://github.com/delitamakanda/agenda-backend-api/pull/14) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+2. 💪 Opened PR [#14](https://github.com/delitamakanda/agenda-backend-api/pull/14) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+3. 🎉 Merged PR [#13](https://github.com/delitamakanda/agenda-backend-api/pull/13) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+4. 💪 Opened PR [#13](https://github.com/delitamakanda/agenda-backend-api/pull/13) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
 <!--END_SECTION:activity-->
 
 </details>
