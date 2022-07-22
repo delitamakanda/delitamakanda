@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/delitamakanda/banky/pull/24) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-2. 🎉 Merged PR [#19](https://github.com/delitamakanda/banky/pull/19) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-3. 🎉 Merged PR [#22](https://github.com/delitamakanda/banky/pull/22) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-4. 🎉 Merged PR [#23](https://github.com/delitamakanda/banky/pull/23) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+1. 🎉 Merged PR [#48](https://github.com/delitamakanda/elearning/pull/48) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. 🎉 Merged PR [#47](https://github.com/delitamakanda/elearning/pull/47) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. 🎉 Merged PR [#46](https://github.com/delitamakanda/elearning/pull/46) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#45](https://github.com/delitamakanda/elearning/pull/45) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
