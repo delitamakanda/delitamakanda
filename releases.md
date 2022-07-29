@@ -8,7 +8,7 @@ All <!-- release_count starts -->13<!-- release_count ends --> of my released pr
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.1.0](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.1.0) - 2022-07-16
 <br>django backend for grocery_app_front 
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
-<br>try flutter app
+<br>try flutter
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.1.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.1.0) - 2022-06-07
 <br>django backend ionic calendar app
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
