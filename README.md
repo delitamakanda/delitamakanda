@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/delitamakanda/GroceryApp/issues/1) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
-2. ❗️ Opened issue [#1](https://github.com/delitamakanda/GroceryApp/issues/1) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
-3. 🎉 Merged PR [#26](https://github.com/delitamakanda/banky/pull/26) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-4. 🎉 Merged PR [#48](https://github.com/delitamakanda/elearning/pull/48) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#3](https://github.com/delitamakanda/invoice-cms/pull/3) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+2. 💪 Opened PR [#3](https://github.com/delitamakanda/invoice-cms/pull/3) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+3. 🎉 Merged PR [#105](https://github.com/delitamakanda/fanfiction/pull/105) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 💪 Opened PR [#105](https://github.com/delitamakanda/fanfiction/pull/105) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
