@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
+<br>fanfiction forum
 * **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3.10](https://github.com/delitamakanda/elearning/releases/tag/v1.3.10) - 2022-07-21
 <br>e-learning django app (django, python)
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.1.0](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.1.0) - 2022-07-16
