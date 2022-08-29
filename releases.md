@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
@@ -15,8 +15,6 @@ All <!-- release_count starts -->14<!-- release_count ends --> of my released pr
 <br>django backend ionic calendar app
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
 <br>None
-* **[cordova-plugin-firebase-inappmessaging-ka2](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2)**: [v5.2.0](https://github.com/delitamakanda/cordova-plugin-firebase-inappmessaging-ka2/releases/tag/v5.2.0) - 2022-05-20
-<br>Cordova plugin for Firebase In-App Messaging
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.4.0](https://github.com/delitamakanda/fanfiction/releases/tag/v1.4.0) - 2022-05-06
 <br>a fanfiction app in vue.js
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
