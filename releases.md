@@ -3,6 +3,8 @@
 All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v2.0.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.0.0) - 2022-09-11
+<br>a fanfiction app in vue.js
 * **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 <br>fanfiction forum
 * **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3.10](https://github.com/delitamakanda/elearning/releases/tag/v1.3.10) - 2022-07-21
@@ -15,8 +17,6 @@ All <!-- release_count starts -->13<!-- release_count ends --> of my released pr
 <br>django backend ionic calendar app
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
 <br>None
-* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v1.4.0](https://github.com/delitamakanda/fanfiction/releases/tag/v1.4.0) - 2022-05-06
-<br>a fanfiction app in vue.js
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
 * **[banky](https://github.com/delitamakanda/banky)**: [v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
