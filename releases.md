@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->13<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[chat-app](https://github.com/delitamakanda/chat-app)**: [v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
+<br>django chat app
+* **[bank-scraper](https://github.com/delitamakanda/bank-scraper)**: [v1.0.0](https://github.com/delitamakanda/bank-scraper/releases/tag/v1.0.0) - 2022-09-29
+<br>None
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v2.0.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.0.0) - 2022-09-11
 <br>a fanfiction app in vue.js
 * **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14

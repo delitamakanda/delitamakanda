@@ -26,14 +26,14 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [chat-app v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
+* [bank-scraper v1.0.0](https://github.com/delitamakanda/bank-scraper/releases/tag/v1.0.0) - 2022-09-29
 * [fanfiction v2.0.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.0.0) - 2022-09-11
 * [fanfiction-forum v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 * [elearning v1.3.10](https://github.com/delitamakanda/elearning/releases/tag/v1.3.10) - 2022-07-21
 * [GroceryApp v1.1.0](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.1.0) - 2022-07-16
 * [grocery_app_front v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 * [agenda-backend-api v1.1.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.1.0) - 2022-06-07
-* [dopejob-v2 v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
-* [invoice-cms v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
