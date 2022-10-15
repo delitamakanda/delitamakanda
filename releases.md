@@ -9,30 +9,30 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 <br>django chat app
 * **[bank-scraper](https://github.com/delitamakanda/bank-scraper)**: [v1.0.0](https://github.com/delitamakanda/bank-scraper/releases/tag/v1.0.0) - 2022-09-29
 <br>bank scraper
-* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [v2.0.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.0.0) - 2022-09-11
-<br>a fanfiction app in vue.js
 * **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 <br>fanfiction forum
-* **[elearning](https://github.com/delitamakanda/elearning)**: [v1.3.10](https://github.com/delitamakanda/elearning/releases/tag/v1.3.10) - 2022-07-21
-<br>e-learning django app (django, python)
-* **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.1.0](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.1.0) - 2022-07-16
-<br>django backend for grocery_app_front 
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 <br>try flutter
-* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.1.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.1.0) - 2022-06-07
-<br>django backend ionic calendar app
-* **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v2.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v2.0.0) - 2022-05-27
-<br>None
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
-* **[banky](https://github.com/delitamakanda/banky)**: [v1.2](https://github.com/delitamakanda/banky/releases/tag/v1.2) - 2021-07-04
-<br>budget app react js and django
-* **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.1) - 2021-02-27
+* **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v1.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0.0) - 2021-06-27
+<br>None
+* **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
+<br>django backend for grocery_app_front 
+* **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 <br>flask application facebook-like
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
+* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.0.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0.0) - 2020-07-26
+<br>django backend ionic calendar app
+* **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
+<br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
+* **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.0) - 2020-07-19
+<br>e-learning django app (django, python)
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <br>Recent releases special repo
+* **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.1) - 2018-10-17
+<br>a fanfiction app in vue.js
 <!-- recent_releases ends -->
