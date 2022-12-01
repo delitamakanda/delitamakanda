@@ -44,10 +44,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#128](https://github.com/delitamakanda/fanfiction/pull/128) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#15](https://github.com/delitamakanda/dopejob-v2/pull/15) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-3. ❌ Closed PR [#126](https://github.com/delitamakanda/fanfiction/pull/126) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#123](https://github.com/delitamakanda/fanfiction/pull/123) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#5](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital/pull/5) in [delitamakanda/cordova-plugin-firebase-analytics-digital](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital)
+2. 💪 Opened PR [#5](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital/pull/5) in [delitamakanda/cordova-plugin-firebase-analytics-digital](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital)
+3. 🎉 Merged PR [#4](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital/pull/4) in [delitamakanda/cordova-plugin-firebase-analytics-digital](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital)
+4. 💪 Opened PR [#4](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital/pull/4) in [delitamakanda/cordova-plugin-firebase-analytics-digital](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital)
 <!--END_SECTION:activity-->
 
 </details>
