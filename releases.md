@@ -1,12 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[awesome-cordova-plugins-digital](https://github.com/delitamakanda/awesome-cordova-plugins-digital)**: [v5.46.1](https://github.com/delitamakanda/awesome-cordova-plugins-digital/releases/tag/v5.46.1) - 2022-11-30
-<br>Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. 
-* **[cordova-plugin-firebase-analytics-digital](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital)**: [v7.0.8](https://github.com/delitamakanda/cordova-plugin-firebase-analytics-digital/releases/tag/v7.0.8) - 2022-11-29
-<br>Cordova plugin for Firebase Analytics
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 <br>incident management cms
 * **[chat-app](https://github.com/delitamakanda/chat-app)**: [v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
