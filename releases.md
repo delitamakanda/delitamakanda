@@ -16,7 +16,7 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
 * **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v1.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0.0) - 2021-06-27
-<br>None
+<br>django jobboard
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
 <br>django backend for grocery_app_front 
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
@@ -24,7 +24,7 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
 * **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.0.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0.0) - 2020-07-26
-<br>django backend ionic calendar app
+<br>django vite vue3 calendar app
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
 <br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
