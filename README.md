@@ -42,10 +42,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/delitamakanda/fanfiction/pull/143) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#140](https://github.com/delitamakanda/fanfiction/pull/140) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#141](https://github.com/delitamakanda/fanfiction/pull/141) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#144](https://github.com/delitamakanda/fanfiction/pull/144) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#58](https://github.com/delitamakanda/elearning/pull/58) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. 🎉 Merged PR [#53](https://github.com/delitamakanda/elearning/pull/53) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. 🎉 Merged PR [#55](https://github.com/delitamakanda/elearning/pull/55) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. ❌ Closed PR [#57](https://github.com/delitamakanda/elearning/pull/57) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
