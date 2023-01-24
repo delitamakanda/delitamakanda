@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
+<br>None
+* **[docs-app](https://github.com/delitamakanda/docs-app)**: [v1.0.0](https://github.com/delitamakanda/docs-app/releases/tag/v1.0.0) - 2023-01-22
+<br>fastapi api + react frontend
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 <br>incident management cms
 * **[chat-app](https://github.com/delitamakanda/chat-app)**: [v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
