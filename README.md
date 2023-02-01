@@ -28,10 +28,10 @@
 * [docs-app v1.0.0](https://github.com/delitamakanda/docs-app/releases/tag/v1.0.0) - 2023-01-22
 * [incident-management v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 * [chat-app v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
-* [bank-scraper v1.0.0](https://github.com/delitamakanda/bank-scraper/releases/tag/v1.0.0) - 2022-09-29
 * [fanfiction-forum v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 * [grocery_app_front v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 * [invoice-cms v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
+* [dopejob-v2 v1.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0.0) - 2021-06-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
