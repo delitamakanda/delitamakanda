@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->17<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
@@ -9,8 +9,6 @@ All <!-- release_count starts -->17<!-- release_count ends --> of my released pr
 <br>fastapi api + react frontend
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 <br>incident management cms
-* **[chat-app](https://github.com/delitamakanda/chat-app)**: [v1.0.0](https://github.com/delitamakanda/chat-app/releases/tag/v1.0.0) - 2022-09-29
-<br>django chat app
 * **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 <br>fanfiction forum
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
