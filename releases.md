@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->17<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[chatapp_front](https://github.com/delitamakanda/chatapp_front)**: [v1.0.0](https://github.com/delitamakanda/chatapp_front/releases/tag/v1.0.0) - 2023-02-12
-<br>chat flutter app
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 <br>None
 * **[docs-app](https://github.com/delitamakanda/docs-app)**: [v1.0.0](https://github.com/delitamakanda/docs-app/releases/tag/v1.0.0) - 2023-01-22
