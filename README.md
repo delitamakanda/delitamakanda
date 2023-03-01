@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-2. 💪 Opened PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 🎉 Merged PR [#16](https://github.com/delitamakanda/invoice-cms/pull/16) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-4. 🎉 Merged PR [#3](https://github.com/delitamakanda/fanfiction-forum/pull/3) in [delitamakanda/fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)
+1. 🎉 Merged PR [#150](https://github.com/delitamakanda/fanfiction/pull/150) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. 🎉 Merged PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+3. 💪 Opened PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 🎉 Merged PR [#16](https://github.com/delitamakanda/invoice-cms/pull/16) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
