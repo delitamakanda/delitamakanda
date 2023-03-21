@@ -21,6 +21,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [hapy-checkout-system-api v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 * [messanger v1.0.0](https://github.com/delitamakanda/messanger/releases/tag/v1.0.0) - 2023-03-07
 * [blog-graphene v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 * [docs-app v1.0.0](https://github.com/delitamakanda/docs-app/releases/tag/v1.0.0) - 2023-01-22
@@ -28,7 +29,6 @@
 * [fanfiction-forum v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 * [grocery_app_front v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 * [invoice-cms v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
-* [dopejob-v2 v1.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0.0) - 2021-06-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 

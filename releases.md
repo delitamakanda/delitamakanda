@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->17<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
+<br>checkout system restful api
 * **[messanger](https://github.com/delitamakanda/messanger)**: [v1.0.0](https://github.com/delitamakanda/messanger/releases/tag/v1.0.0) - 2023-03-07
 <br>project chatroom in django
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
