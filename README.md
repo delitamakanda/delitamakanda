@@ -49,8 +49,7 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delitamakanda&show_icons=true&locale=en&layout=compact" alt="delitamakanda" /></p>
+  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=delitamakanda&show_icons=true&locale=en&layout=compact" alt="delitamakanda" /></p>
 
 </details>
 
