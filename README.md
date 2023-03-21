@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/delitamakanda/fanfiction/pull/150) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 💪 Opened PR [#17](https://github.com/delitamakanda/invoice-cms/pull/17) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-4. 🎉 Merged PR [#16](https://github.com/delitamakanda/invoice-cms/pull/16) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+1. ❌ Closed PR [#139](https://github.com/delitamakanda/fanfiction/pull/139) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. ❌ Closed PR [#138](https://github.com/delitamakanda/fanfiction/pull/138) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. ❌ Closed PR [#153](https://github.com/delitamakanda/fanfiction/pull/153) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. ❌ Closed PR [#136](https://github.com/delitamakanda/fanfiction/pull/136) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
