@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->19<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->20<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
+<br>learning microfrontend architecture
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 <br>multi-tenant restaurant application
 * **[timesheet](https://github.com/delitamakanda/timesheet)**: [v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
