@@ -21,6 +21,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [newspaper v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
 * [microfrontend v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 * [restaurant v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 * [timesheet v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
@@ -28,7 +29,6 @@
 * [messanger v1.0.0](https://github.com/delitamakanda/messanger/releases/tag/v1.0.0) - 2023-03-07
 * [blog-graphene v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 * [incident-management v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
-* [fanfiction-forum v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 

@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->20<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->21<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[newspaper](https://github.com/delitamakanda/newspaper)**: [v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
+<br>live news app front nextjs and backend django graphene
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
