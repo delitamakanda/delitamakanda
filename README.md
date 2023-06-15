@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/delitamakanda/invoice-cms/pull/23) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-2. 🎉 Merged PR [#19](https://github.com/delitamakanda/scrumboard/pull/19) in [delitamakanda/scrumboard](https://github.com/delitamakanda/scrumboard)
-3. 🎉 Merged PR [#5](https://github.com/delitamakanda/fanfiction-forum/pull/5) in [delitamakanda/fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)
-4. 🎉 Merged PR [#163](https://github.com/delitamakanda/fanfiction/pull/163) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#4](https://github.com/delitamakanda/messanger/pull/4) in [delitamakanda/messanger](https://github.com/delitamakanda/messanger)
+2. 🎉 Merged PR [#19](https://github.com/delitamakanda/dopejob-v2/pull/19) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. 🎉 Merged PR [#18](https://github.com/delitamakanda/agenda-backend-api/pull/18) in [delitamakanda/agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)
+4. 🎉 Merged PR [#24](https://github.com/delitamakanda/invoice-cms/pull/24) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
