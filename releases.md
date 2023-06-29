@@ -8,7 +8,7 @@ All <!-- release_count starts -->21<!-- release_count ends --> of my released pr
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
-<br>multi-tenant restaurant application
+<br>multi-tenant restaurant rest api
 * **[timesheet](https://github.com/delitamakanda/timesheet)**: [v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
 <br>timesheet rest api
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
