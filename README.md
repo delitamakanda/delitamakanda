@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/delitamakanda/fanfiction/pull/160) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#164](https://github.com/delitamakanda/fanfiction/pull/164) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#165](https://github.com/delitamakanda/fanfiction/pull/165) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#4](https://github.com/delitamakanda/messanger/pull/4) in [delitamakanda/messanger](https://github.com/delitamakanda/messanger)
+1. 🎉 Merged PR [#4](https://github.com/delitamakanda/restaurant/pull/4) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+2. 🎉 Merged PR [#3](https://github.com/delitamakanda/restaurant/pull/3) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+3. 🎉 Merged PR [#2](https://github.com/delitamakanda/restaurant/pull/2) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+4. 🎉 Merged PR [#1](https://github.com/delitamakanda/restaurant/pull/1) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
 <!--END_SECTION:activity-->
 
 </details>
