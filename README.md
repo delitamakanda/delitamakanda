@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/delitamakanda/restaurant/pull/4) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-2. 🎉 Merged PR [#3](https://github.com/delitamakanda/restaurant/pull/3) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-3. 🎉 Merged PR [#2](https://github.com/delitamakanda/restaurant/pull/2) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-4. 🎉 Merged PR [#1](https://github.com/delitamakanda/restaurant/pull/1) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+1. 🎉 Merged PR [#24](https://github.com/delitamakanda/dopejob-v2/pull/24) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+2. 🎉 Merged PR [#31](https://github.com/delitamakanda/dopejob-v2/pull/31) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. 🎉 Merged PR [#28](https://github.com/delitamakanda/dopejob-v2/pull/28) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+4. 🎉 Merged PR [#26](https://github.com/delitamakanda/dopejob-v2/pull/26) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
 <!--END_SECTION:activity-->
 
 </details>
