@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/delitamakanda/dopejob-v2/pull/24) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-2. 🎉 Merged PR [#31](https://github.com/delitamakanda/dopejob-v2/pull/31) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-3. 🎉 Merged PR [#28](https://github.com/delitamakanda/dopejob-v2/pull/28) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-4. 🎉 Merged PR [#26](https://github.com/delitamakanda/dopejob-v2/pull/26) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+1. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/banky/releases/tag/v2.0.0) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+2. 🎉 Merged PR [#42](https://github.com/delitamakanda/banky/pull/42) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+3. 🎉 Merged PR [#43](https://github.com/delitamakanda/banky/pull/43) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+4. 🎉 Merged PR [#44](https://github.com/delitamakanda/banky/pull/44) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
 <!--END_SECTION:activity-->
 
 </details>
