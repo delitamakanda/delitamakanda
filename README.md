@@ -39,10 +39,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/banky/releases/tag/v2.0.0) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-2. 🎉 Merged PR [#42](https://github.com/delitamakanda/banky/pull/42) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-3. 🎉 Merged PR [#43](https://github.com/delitamakanda/banky/pull/43) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-4. 🎉 Merged PR [#44](https://github.com/delitamakanda/banky/pull/44) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+1. ❗ Opened issue [#8](https://github.com/guzmanoj/ngx-onetrust/issues/8) in [guzmanoj/ngx-onetrust](https://github.com/guzmanoj/ngx-onetrust)
+2. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/banky/releases/tag/v2.0.0) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+3. 🎉 Merged PR [#42](https://github.com/delitamakanda/banky/pull/42) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+4. 🎉 Merged PR [#43](https://github.com/delitamakanda/banky/pull/43) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
 <!--END_SECTION:activity-->
 
 </details>
