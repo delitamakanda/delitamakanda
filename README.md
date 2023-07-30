@@ -56,4 +56,6 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
 <a href="https://github.com/delitamakanda/delitamakanda/actions"><img src="https://github.com/delitamakanda/delitamakanda/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 ##### Donate
-![qrcode](QR_code.png)
+
+[![qrcode](QR_code.png)](https://www.paypal.com/donate/?hosted_button_id=NR2HBR3BZYVRN&source=qr)
+
