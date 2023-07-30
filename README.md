@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda](https://github.com/delitamakanda)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django and Javascript**
 
 - 📫 How to reach me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/7Z9YnmXq)
 
