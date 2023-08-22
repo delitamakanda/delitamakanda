@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [merch_store v1.0.0](https://github.com/delitamakanda/merch_store/releases/tag/v1.0.0) - 2023-08-20
 * [chronopost2.0 v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
 * [hostel_management v1.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v1.0.0) - 2023-07-02
 * [newspaper v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
@@ -47,7 +48,6 @@
 * [restaurant v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 * [timesheet v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
 * [hapy-checkout-system-api v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
-* [messanger v1.0.0](https://github.com/delitamakanda/messanger/releases/tag/v1.0.0) - 2023-03-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 

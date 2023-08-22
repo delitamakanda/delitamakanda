@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->23<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[merch_store](https://github.com/delitamakanda/merch_store)**: [v1.0.0](https://github.com/delitamakanda/merch_store/releases/tag/v1.0.0) - 2023-08-20
+<br>merch store application
 * **[chronopost2.0](https://github.com/delitamakanda/chronopost2.0)**: [v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
 <br>chronopost tracking
 * **[hostel_management](https://github.com/delitamakanda/hostel_management)**: [v1.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v1.0.0) - 2023-07-02
