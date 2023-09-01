@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/delitamakanda/merch_store/pull/9) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
-2. 💪 Opened PR [#9](https://github.com/delitamakanda/merch_store/pull/9) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
-3. 🎉 Merged PR [#8](https://github.com/delitamakanda/merch_store/pull/8) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
-4. 💪 Opened PR [#8](https://github.com/delitamakanda/merch_store/pull/8) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
+1. 🎉 Merged PR [#12](https://github.com/delitamakanda/merch_store/pull/12) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
+2. 💪 Opened PR [#12](https://github.com/delitamakanda/merch_store/pull/12) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
+3. 🎉 Merged PR [#11](https://github.com/delitamakanda/merch_store/pull/11) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
+4. 💪 Opened PR [#11](https://github.com/delitamakanda/merch_store/pull/11) in [delitamakanda/merch_store](https://github.com/delitamakanda/merch_store)
 <!--END_SECTION:activity-->
 
 </details>
