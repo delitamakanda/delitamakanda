@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/delitamakanda/elearning/pull/71) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-2. 💪 Opened PR [#71](https://github.com/delitamakanda/elearning/pull/71) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 🎉 Merged PR [#70](https://github.com/delitamakanda/elearning/pull/70) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 💪 Opened PR [#70](https://github.com/delitamakanda/elearning/pull/70) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🚀 Published release [v1.1.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.1.0) in [delitamakanda/chronopost2.0](https://github.com/delitamakanda/chronopost2.0)
+2. 🎉 Merged PR [#71](https://github.com/delitamakanda/elearning/pull/71) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. 💪 Opened PR [#71](https://github.com/delitamakanda/elearning/pull/71) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#70](https://github.com/delitamakanda/elearning/pull/70) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
