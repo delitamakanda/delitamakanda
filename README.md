@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delitamakanda&show_icons=true&locale=en" alt="delitamakanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delitamakanda&" alt="delitamakanda" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-k3nen14x3-delitamakanda.vercel.app?user=delitamakanda)](https://git.io/streak-stats)
 
 ### Spotify Playing 🎧
 
