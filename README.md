@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-git-master-flecto.vercel.app/?username=delitamakanda" alt="delitamakanda" /></a> </p>
 
-- 🔭 I’m currently working on [Banky App](https://github.com/delitamakanda/banky)
+- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend)
 
 - 🌱 I’m currently learning **Angular + React + Vue**
 
