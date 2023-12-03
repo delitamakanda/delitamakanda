@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->23<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[events-app](https://github.com/delitamakanda/events-app)**: [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
+<br>ticketing application sale
 * **[merch_store](https://github.com/delitamakanda/merch_store)**: [v1.0.0](https://github.com/delitamakanda/merch_store/releases/tag/v1.0.0) - 2023-08-20
 <br>merch store application
 * **[chronopost2.0](https://github.com/delitamakanda/chronopost2.0)**: [v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
@@ -19,8 +21,6 @@ All <!-- release_count starts -->24<!-- release_count ends --> of my released pr
 <br>timesheet rest api
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 <br>checkout system restful api
-* **[messanger](https://github.com/delitamakanda/messanger)**: [v1.0.0](https://github.com/delitamakanda/messanger/releases/tag/v1.0.0) - 2023-03-07
-<br>project chatroom in django
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 <br>None
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
@@ -39,8 +39,6 @@ All <!-- release_count starts -->24<!-- release_count ends --> of my released pr
 <br>flask application facebook-like
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
-* **[agenda-backend-api](https://github.com/delitamakanda/agenda-backend-api)**: [v1.0.0](https://github.com/delitamakanda/agenda-backend-api/releases/tag/v1.0.0) - 2020-07-26
-<br>django vite vue3 calendar app
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
 <br>budget app react js and django
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
