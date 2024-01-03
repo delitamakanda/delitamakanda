@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delitamakanda" alt="delitamakanda" /></a> </p>
 
-- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend)
+- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend) and [Taskr](https://github.com/delitamakanda/taskr)
 
 - 🌱 I’m currently learning **Angular + React + Vue**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/7Z9YnmXq)
 
-- 📄 Know about my experiences [www.linkedin.com/in/delitamakanda](www.linkedin.com/in/delitamakanda)
+- 📄 Know about my experiences [www.linkedin.com/in/delitamakanda](https://www.linkedin.com/in/delitamakanda)
 
 - ⚡ Fun fact **I love working**
 
