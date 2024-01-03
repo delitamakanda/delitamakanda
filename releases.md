@@ -5,14 +5,14 @@ All <!-- release_count starts -->23<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[events-app](https://github.com/delitamakanda/events-app)**: [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
 <br>ticketing application sale
-* **[merch_store](https://github.com/delitamakanda/merch_store)**: [v1.0.0](https://github.com/delitamakanda/merch_store/releases/tag/v1.0.0) - 2023-08-20
-<br>merch store application
 * **[chronopost2.0](https://github.com/delitamakanda/chronopost2.0)**: [v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
 <br>chronopost tracking
 * **[hostel_management](https://github.com/delitamakanda/hostel_management)**: [v1.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v1.0.0) - 2023-07-02
 <br>hostel management application
 * **[newspaper](https://github.com/delitamakanda/newspaper)**: [v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
 <br>live news app front nextjs and backend django graphene
+* **[taskr](https://github.com/delitamakanda/taskr)**: [v1.0.0](https://github.com/delitamakanda/taskr/releases/tag/v1.0.0) - 2023-05-02
+<br>task management app
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
