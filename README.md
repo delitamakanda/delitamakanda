@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/delitamakanda/banky/pull/51) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-2. 🚀 Published release [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) in [delitamakanda/events-app](https://github.com/delitamakanda/events-app)
-3. 🚀 Published release [v1.3.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.3.0) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-4. 🎉 Merged PR [#35](https://github.com/delitamakanda/invoice-cms/pull/35) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) in [delitamakanda/dating-app](https://github.com/delitamakanda/dating-app)
+2. 🎉 Merged PR [#51](https://github.com/delitamakanda/banky/pull/51) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+3. 🚀 Published release [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) in [delitamakanda/events-app](https://github.com/delitamakanda/events-app)
+4. 🚀 Published release [v1.3.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.3.0) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
 <!--END_SECTION:activity-->
 
 </details>
