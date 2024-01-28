@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [portftolio v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 * [dating-app v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) - 2024-01-14
 * [events-app v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
 * [chronopost2.0 v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
@@ -47,7 +48,6 @@
 * [newspaper v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
 * [taskr v1.0.0](https://github.com/delitamakanda/taskr/releases/tag/v1.0.0) - 2023-05-02
 * [microfrontend v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
-* [restaurant v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
