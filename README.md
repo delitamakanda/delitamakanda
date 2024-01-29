@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/delitamakanda/dopejob-v2/pull/41) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-2. ❌ Closed PR [#43](https://github.com/delitamakanda/dopejob-v2/pull/43) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-3. 🎉 Merged PR [#44](https://github.com/delitamakanda/dopejob-v2/pull/44) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
-4. 🎉 Merged PR [#48](https://github.com/delitamakanda/dopejob-v2/pull/48) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+1. 🚀 Published release [v1.1.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.1.0) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+3. 🎉 Merged PR [#36](https://github.com/delitamakanda/invoice-cms/pull/36) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 🎉 Merged PR [#38](https://github.com/delitamakanda/invoice-cms/pull/38) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
