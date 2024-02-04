@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->25<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->26<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[recipe](https://github.com/delitamakanda/recipe)**: [v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) - 2024-02-04
+<br>None
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 <br>docusaurus portfolio
 * **[dating-app](https://github.com/delitamakanda/dating-app)**: [v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) - 2024-01-14
