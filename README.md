@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) in [delitamakanda/recipe](https://github.com/delitamakanda/recipe)
-2. 🚀 Published release [v1.1.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.1.0) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-4. 🎉 Merged PR [#36](https://github.com/delitamakanda/invoice-cms/pull/36) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+1. 🎉 Merged PR [#50](https://github.com/delitamakanda/dopejob-v2/pull/50) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+2. 🎉 Merged PR [#51](https://github.com/delitamakanda/dopejob-v2/pull/51) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. 🎉 Merged PR [#53](https://github.com/delitamakanda/banky/pull/53) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+4. 🚀 Published release [v2.0.1](https://github.com/delitamakanda/fanfiction/releases/tag/v2.0.1) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
