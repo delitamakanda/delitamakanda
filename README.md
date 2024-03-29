@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.0](https://github.com/delitamakanda/elearning/releases/tag/v1.4.0) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-2. 🎉 Merged PR [#84](https://github.com/delitamakanda/elearning/pull/84) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 💪 Opened PR [#84](https://github.com/delitamakanda/elearning/pull/84) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#83](https://github.com/delitamakanda/elearning/pull/83) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#225](https://github.com/delitamakanda/fanfiction/pull/225) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. 🚀 Published release [v1.1.1](https://github.com/delitamakanda/portftolio/releases/tag/v1.1.1) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+3. 🎉 Merged PR [#2](https://github.com/delitamakanda/portftolio/pull/2) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+4. 💪 Opened PR [#2](https://github.com/delitamakanda/portftolio/pull/2) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
 <!--END_SECTION:activity-->
 
 </details>
