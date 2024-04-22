@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/banky-app/releases/tag/v1.0.0) in [delitamakanda/banky-app](https://github.com/delitamakanda/banky-app)
-2. 🎉 Merged PR [#225](https://github.com/delitamakanda/fanfiction/pull/225) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🚀 Published release [v1.1.1](https://github.com/delitamakanda/portftolio/releases/tag/v1.1.1) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-4. 🎉 Merged PR [#2](https://github.com/delitamakanda/portftolio/pull/2) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+1. 🎉 Merged PR [#59](https://github.com/delitamakanda/dopejob-v2/pull/59) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+2. 🎉 Merged PR [#60](https://github.com/delitamakanda/dopejob-v2/pull/60) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. 🎉 Merged PR [#58](https://github.com/delitamakanda/dopejob-v2/pull/58) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+4. 🎉 Merged PR [#62](https://github.com/delitamakanda/dopejob-v2/pull/62) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
 <!--END_SECTION:activity-->
 
 </details>
