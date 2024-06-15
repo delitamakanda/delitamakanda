@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) in [delitamakanda/restaurant-front](https://github.com/delitamakanda/restaurant-front)
-2. 🎉 Merged PR [#81](https://github.com/delitamakanda/elearning/pull/81) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 🎉 Merged PR [#88](https://github.com/delitamakanda/elearning/pull/88) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#87](https://github.com/delitamakanda/elearning/pull/87) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#70](https://github.com/delitamakanda/dopejob-v2/pull/70) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+2. 💪 Opened PR [#70](https://github.com/delitamakanda/dopejob-v2/pull/70) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+3. 🎉 Merged PR [#69](https://github.com/delitamakanda/dopejob-v2/pull/69) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
+4. 💪 Opened PR [#69](https://github.com/delitamakanda/dopejob-v2/pull/69) in [delitamakanda/dopejob-v2](https://github.com/delitamakanda/dopejob-v2)
 <!--END_SECTION:activity-->
 
 </details>
