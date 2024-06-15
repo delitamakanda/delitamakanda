@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
+<br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
 <br>front for restaurant app backend
 * **[banky-app](https://github.com/delitamakanda/banky-app)**: [v1.0.0](https://github.com/delitamakanda/banky-app/releases/tag/v1.0.0) - 2024-03-31
@@ -24,7 +26,7 @@ All <!-- release_count starts -->28<!-- release_count ends --> of my released pr
 * **[taskr](https://github.com/delitamakanda/taskr)**: [v1.0.0](https://github.com/delitamakanda/taskr/releases/tag/v1.0.0) - 2023-05-02
 <br>task management app
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
-<br>learning microfrontend architecture
+<br>learning microfrontend architecture (wip)
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 <br>multi-tenant restaurant rest api
 * **[timesheet](https://github.com/delitamakanda/timesheet)**: [v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
