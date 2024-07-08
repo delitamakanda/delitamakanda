@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dopejob-front](https://github.com/delitamakanda/dopejob-front)**: [v1.0.0](https://github.com/delitamakanda/dopejob-front/releases/tag/v1.0.0) - 2024-07-07
+<br>nuxt app with tailwindcss and Headless ui
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
