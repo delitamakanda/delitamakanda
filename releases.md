@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[dopejob-front](https://github.com/delitamakanda/dopejob-front)**: [v1.0.0](https://github.com/delitamakanda/dopejob-front/releases/tag/v1.0.0) - 2024-07-07
@@ -25,8 +25,6 @@ All <!-- release_count starts -->30<!-- release_count ends --> of my released pr
 <br>hostel management application
 * **[newspaper](https://github.com/delitamakanda/newspaper)**: [v1.0.0](https://github.com/delitamakanda/newspaper/releases/tag/v1.0.0) - 2023-05-03
 <br>live news app front nextjs and backend django graphene
-* **[taskr](https://github.com/delitamakanda/taskr)**: [v1.0.0](https://github.com/delitamakanda/taskr/releases/tag/v1.0.0) - 2023-05-02
-<br>task management app
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture (wip)
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
