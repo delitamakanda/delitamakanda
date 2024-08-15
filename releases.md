@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[dopejob-front](https://github.com/delitamakanda/dopejob-front)**: [v1.0.0](https://github.com/delitamakanda/dopejob-front/releases/tag/v1.0.0) - 2024-07-07
@@ -37,8 +37,6 @@ All <!-- release_count starts -->29<!-- release_count ends --> of my released pr
 <br>None
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 <br>incident management cms
-* **[fanfiction-forum](https://github.com/delitamakanda/fanfiction-forum)**: [v2.0.0](https://github.com/delitamakanda/fanfiction-forum/releases/tag/v2.0.0) - 2022-08-14
-<br>fanfiction forum
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 <br>try flutter
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
