@@ -1,16 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->25<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dopejob-front](https://github.com/delitamakanda/dopejob-front)**: [v1.0.0](https://github.com/delitamakanda/dopejob-front/releases/tag/v1.0.0) - 2024-07-07
-<br>nuxt app with tailwindcss and Headless ui
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
 <br>front for restaurant app backend
-* **[banky-app](https://github.com/delitamakanda/banky-app)**: [v1.0.0](https://github.com/delitamakanda/banky-app/releases/tag/v1.0.0) - 2024-03-31
-<br>Banky APP
 * **[recipe](https://github.com/delitamakanda/recipe)**: [v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) - 2024-02-04
 <br>recipes app in svelte with django
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
@@ -41,8 +37,6 @@ All <!-- release_count starts -->28<!-- release_count ends --> of my released pr
 <br>try flutter
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
-* **[dopejob-v2](https://github.com/delitamakanda/dopejob-v2)**: [v1.0.0](https://github.com/delitamakanda/dopejob-v2/releases/tag/v1.0.0) - 2021-06-27
-<br>django jobboard
 * **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
 <br>django backend for grocery_app_front 
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
