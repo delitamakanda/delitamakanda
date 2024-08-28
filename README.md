@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delitamakanda" alt="delitamakanda" /></a> </p>
 
-- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend) and [Taskr](https://github.com/delitamakanda/taskr)
+- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend) and [Recipe App](https://github.com/delitamakanda/recipe)
 
-- 🌱 I’m currently learning **Angular + React + Vue**
+- 🌱 I’m currently learning **Angular + React + Vue + Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda](https://github.com/delitamakanda)
 
