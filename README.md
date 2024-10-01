@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/delitamakanda/banky/pull/59) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-2. 🎉 Merged PR [#59](https://github.com/delitamakanda/invoice-cms/pull/59) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 🎉 Merged PR [#58](https://github.com/delitamakanda/invoice-cms/pull/58) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-4. 🚀 Published release [v1.1.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.1.0) in [delitamakanda/incident-management](https://github.com/delitamakanda/incident-management)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. 🎉 Merged PR [#59](https://github.com/delitamakanda/banky/pull/59) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+3. 🎉 Merged PR [#59](https://github.com/delitamakanda/invoice-cms/pull/59) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 🎉 Merged PR [#58](https://github.com/delitamakanda/invoice-cms/pull/58) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
