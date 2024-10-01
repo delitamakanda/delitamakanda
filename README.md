@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [angular-shopping-cart v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
 * [frontendnation2024-workshops v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 * [restaurant-front v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
 * [recipe v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) - 2024-02-04
@@ -47,7 +48,6 @@
 * [dating-app v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) - 2024-01-14
 * [events-app v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
 * [chronopost2.0 v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
-* [hostel_management v1.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v1.0.0) - 2023-07-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
