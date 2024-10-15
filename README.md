@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/delitamakanda/elearning/pull/95) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-2. 🎉 Merged PR [#93](https://github.com/delitamakanda/elearning/pull/93) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 🎉 Merged PR [#92](https://github.com/delitamakanda/elearning/pull/92) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#90](https://github.com/delitamakanda/elearning/pull/90) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. ❌ Closed PR [#1](https://github.com/delitamakanda/angular-shopping-cart/pull/1) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. 💪 Opened PR [#1](https://github.com/delitamakanda/angular-shopping-cart/pull/1) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+3. 🎉 Merged PR [#95](https://github.com/delitamakanda/elearning/pull/95) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#93](https://github.com/delitamakanda/elearning/pull/93) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
