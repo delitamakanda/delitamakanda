@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/delitamakanda/angular-shopping-cart/pull/1) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-2. 💪 Opened PR [#1](https://github.com/delitamakanda/angular-shopping-cart/pull/1) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-3. 🎉 Merged PR [#95](https://github.com/delitamakanda/elearning/pull/95) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#93](https://github.com/delitamakanda/elearning/pull/93) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#16](https://github.com/delitamakanda/restaurant/pull/16) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+2. 🎉 Merged PR [#15](https://github.com/delitamakanda/restaurant/pull/15) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+3. 🎉 Merged PR [#14](https://github.com/delitamakanda/restaurant/pull/14) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+4. 🎉 Merged PR [#13](https://github.com/delitamakanda/restaurant/pull/13) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
 <!--END_SECTION:activity-->
 
 </details>
