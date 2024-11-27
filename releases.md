@@ -4,7 +4,7 @@ All <!-- release_count starts -->27<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
-<br>standalone project for learning angular 18
+<br>standalone project for learning angular 19
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
@@ -32,7 +32,7 @@ All <!-- release_count starts -->27<!-- release_count ends --> of my released pr
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 <br>checkout system restful api
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
-<br>None
+<br>blog app with django graphene
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
 <br>incident management cms
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
