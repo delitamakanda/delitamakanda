@@ -56,5 +56,5 @@ All <!-- release_count starts -->27<!-- release_count ends --> of my released pr
 * **[delitamakanda](https://github.com/delitamakanda/delitamakanda)**: [](https://github.com/delitamakanda/delitamakanda/releases/tag/v1.0) - 2020-07-19
 <br>Recent releases special repo
 * **[fanfiction](https://github.com/delitamakanda/fanfiction)**: [](https://github.com/delitamakanda/fanfiction/releases/tag/v1.1) - 2018-10-17
-<br>a fanfiction app in vue.js
+<br> fanfiction api 
 <!-- recent_releases ends -->
