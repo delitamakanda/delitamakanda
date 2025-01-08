@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/185) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. 💪 Opened PR [#185](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/185) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) in [delitamakanda/fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)
-4. 🎉 Merged PR [#184](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/184) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. 🎉 Merged PR [#112](https://github.com/delitamakanda/elearning/pull/112) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. 💪 Opened PR [#112](https://github.com/delitamakanda/elearning/pull/112) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. 🎉 Merged PR [#109](https://github.com/delitamakanda/elearning/pull/109) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#110](https://github.com/delitamakanda/elearning/pull/110) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
