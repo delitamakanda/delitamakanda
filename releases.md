@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[emails](https://github.com/delitamakanda/emails)**: [v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
+<br>learn nuxt3
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 <br>fanfiction webapp of fanfiction API
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
