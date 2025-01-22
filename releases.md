@@ -3,8 +3,10 @@
 All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
+<br>monitoring tool in django 4
 * **[emails](https://github.com/delitamakanda/emails)**: [v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
-<br>learn nuxt3
+<br>email app nuxt application 
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 <br>fanfiction webapp of fanfiction API
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
@@ -37,8 +39,6 @@ All <!-- release_count starts -->29<!-- release_count ends --> of my released pr
 <br>checkout system restful api
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 <br>blog app with django graphene
-* **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2022-10-03
-<br>incident management app with django
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 <br>try flutter
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28

@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [incident-management v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
 * [emails v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
 * [fanfiction-webapp v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 * [angular-shopping-cart v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
@@ -47,7 +48,6 @@
 * [restaurant-front v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
 * [recipe v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) - 2024-02-04
 * [portftolio v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
-* [dating-app v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) - 2024-01-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
