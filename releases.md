@@ -6,9 +6,9 @@ All <!-- release_count starts -->29<!-- release_count ends --> of my released pr
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
 <br>monitoring tool in django 4
 * **[emails](https://github.com/delitamakanda/emails)**: [v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
-<br>email app nuxt application 
+<br>email nuxt application 
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
-<br>fanfiction webapp of fanfiction API
+<br>a fanfiction webapp in vue3
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
 <br>standalone project for learning angular 19
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
