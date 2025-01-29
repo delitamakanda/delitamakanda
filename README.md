@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) in [delitamakanda/incident-management](https://github.com/delitamakanda/incident-management)
-2. 🎉 Merged PR [#60](https://github.com/delitamakanda/banky/pull/60) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-3. 🎉 Merged PR [#112](https://github.com/delitamakanda/elearning/pull/112) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 💪 Opened PR [#112](https://github.com/delitamakanda/elearning/pull/112) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#278](https://github.com/delitamakanda/fanfiction/pull/278) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) in [delitamakanda/incident-management](https://github.com/delitamakanda/incident-management)
+3. 🎉 Merged PR [#60](https://github.com/delitamakanda/banky/pull/60) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
+4. 🎉 Merged PR [#112](https://github.com/delitamakanda/elearning/pull/112) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
