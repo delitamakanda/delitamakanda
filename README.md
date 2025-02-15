@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#280](https://github.com/delitamakanda/fanfiction/pull/280) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#282](https://github.com/delitamakanda/fanfiction/pull/282) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#281](https://github.com/delitamakanda/fanfiction/pull/281) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#279](https://github.com/delitamakanda/fanfiction/pull/279) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) in [delitamakanda/timesheetv2](https://github.com/delitamakanda/timesheetv2)
+2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) in [delitamakanda/helpdesk](https://github.com/delitamakanda/helpdesk)
+3. 🎉 Merged PR [#280](https://github.com/delitamakanda/fanfiction/pull/280) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 🎉 Merged PR [#282](https://github.com/delitamakanda/fanfiction/pull/282) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
