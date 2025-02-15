@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->32<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[timesheetv2](https://github.com/delitamakanda/timesheetv2)**: [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
+<br>timesheet api 
 * **[helpdesk](https://github.com/delitamakanda/helpdesk)**: [v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
 <br>frontent app for ticket management api
 * **[ticket-management](https://github.com/delitamakanda/ticket-management)**: [v1.0.0](https://github.com/delitamakanda/ticket-management/releases/tag/v1.0.0) - 2025-02-03
