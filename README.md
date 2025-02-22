@@ -58,8 +58,8 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) in [delitamakanda/timesheetv2](https://github.com/delitamakanda/timesheetv2)
-2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) in [delitamakanda/helpdesk](https://github.com/delitamakanda/helpdesk)
+1. 🚀 Published release [v1.0.1](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.1) in [delitamakanda/timesheetv2](https://github.com/delitamakanda/timesheetv2)
+2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) in [delitamakanda/timesheetv2](https://github.com/delitamakanda/timesheetv2)
 3. 🎉 Merged PR [#280](https://github.com/delitamakanda/fanfiction/pull/280) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 4. 🎉 Merged PR [#282](https://github.com/delitamakanda/fanfiction/pull/282) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
