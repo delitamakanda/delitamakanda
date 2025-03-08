@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/delitamakanda/portftolio/pull/6) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-2. 🎉 Merged PR [#5](https://github.com/delitamakanda/portftolio/pull/5) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-3. 🎉 Merged PR [#4](https://github.com/delitamakanda/portftolio/pull/4) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-4. 🎉 Merged PR [#9](https://github.com/delitamakanda/portftolio/pull/9) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+1. 🎉 Merged PR [#75](https://github.com/delitamakanda/invoice-cms/pull/75) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+2. 🎉 Merged PR [#78](https://github.com/delitamakanda/invoice-cms/pull/78) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+3. 🎉 Merged PR [#72](https://github.com/delitamakanda/invoice-cms/pull/72) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 🎉 Merged PR [#80](https://github.com/delitamakanda/invoice-cms/pull/80) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
