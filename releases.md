@@ -4,7 +4,7 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
-<br>webcomponent status page
+<br>stencil webcomponent status page
 * **[timesheetv2](https://github.com/delitamakanda/timesheetv2)**: [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
 <br>timesheet api 
 * **[helpdesk](https://github.com/delitamakanda/helpdesk)**: [v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
