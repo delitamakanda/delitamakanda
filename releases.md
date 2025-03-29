@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->33<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->34<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[banky-front](https://github.com/delitamakanda/banky-front)**: [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
+<br>frontend for banky api
 * **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
 <br>stencil webcomponent status page
 * **[timesheetv2](https://github.com/delitamakanda/timesheetv2)**: [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
@@ -60,7 +62,7 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
-<br>budget app react js and django
+<br>budget api django and djangorestframework
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
 * **[elearning](https://github.com/delitamakanda/elearning)**: [](https://github.com/delitamakanda/elearning/releases/tag/v1.0) - 2020-07-19
