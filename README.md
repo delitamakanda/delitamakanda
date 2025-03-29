@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/205) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. 🎉 Merged PR [#203](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/203) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-3. 🎉 Merged PR [#202](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/202) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-4. 🎉 Merged PR [#206](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/206) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. 🎉 Merged PR [#1](https://github.com/delitamakanda/banky-front/pull/1) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
+2. 💪 Opened PR [#1](https://github.com/delitamakanda/banky-front/pull/1) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
+3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
+4. 🎉 Merged PR [#19](https://github.com/delitamakanda/restaurant/pull/19) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
 <!--END_SECTION:activity-->
 
 </details>
