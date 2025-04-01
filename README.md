@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/delitamakanda/banky-front/pull/1) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
-2. 💪 Opened PR [#1](https://github.com/delitamakanda/banky-front/pull/1) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
-3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) in [delitamakanda/banky-front](https://github.com/delitamakanda/banky-front)
-4. 🎉 Merged PR [#19](https://github.com/delitamakanda/restaurant/pull/19) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+1. ❌ Closed PR [#111](https://github.com/delitamakanda/elearning/pull/111) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. ❌ Closed PR [#108](https://github.com/delitamakanda/elearning/pull/108) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. ❌ Closed PR [#106](https://github.com/delitamakanda/elearning/pull/106) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. ❌ Closed PR [#105](https://github.com/delitamakanda/elearning/pull/105) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
