@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [Invest_Tracker v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 * [banky-front v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
 * [status-page-webcomponent v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
 * [timesheetv2 v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
@@ -47,7 +48,6 @@
 * [ticket-management v1.0.0](https://github.com/delitamakanda/ticket-management/releases/tag/v1.0.0) - 2025-02-03
 * [incident-management v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
 * [emails v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
-* [fanfiction-webapp v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 

@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->34<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[Invest_Tracker](https://github.com/delitamakanda/Invest_Tracker)**: [v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
+<br>Investments tracker
 * **[banky-front](https://github.com/delitamakanda/banky-front)**: [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
 <br>frontend for banky api
 * **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
