@@ -22,7 +22,7 @@ All <!-- release_count starts -->35<!-- release_count ends --> of my released pr
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 <br>a fanfiction webapp in vue3
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
-<br>standalone project for learning angular 19
+<br>standalone project for learning angular 20
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
