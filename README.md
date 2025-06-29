@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [LoyaltyProgram v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
 * [Invest_Tracker v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 * [banky-front v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
 * [status-page-webcomponent v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
@@ -47,7 +48,6 @@
 * [helpdesk v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
 * [ticket-management v1.0.0](https://github.com/delitamakanda/ticket-management/releases/tag/v1.0.0) - 2025-02-03
 * [incident-management v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
-* [emails v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 

@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->36<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
+<br>API de gestion d'un programme de fidélité client
 * **[Invest_Tracker](https://github.com/delitamakanda/Invest_Tracker)**: [v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 <br>Investments tracker
 * **[banky-front](https://github.com/delitamakanda/banky-front)**: [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
