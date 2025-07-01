@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
-2. 🎉 Merged PR [#87](https://github.com/delitamakanda/invoice-cms/pull/87) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 🎉 Merged PR [#299](https://github.com/delitamakanda/fanfiction/pull/299) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#17](https://github.com/delitamakanda/portftolio/pull/17) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
+1. 💪 Opened PR [#5](https://github.com/delitamakanda/LoyaltyProgram/pull/5) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+2. 💪 Opened PR [#4](https://github.com/delitamakanda/LoyaltyProgram/pull/4) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+3. 🎉 Merged PR [#2](https://github.com/delitamakanda/LoyaltyProgram/pull/2) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+4. 💪 Opened PR [#3](https://github.com/delitamakanda/LoyaltyProgram/pull/3) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
 <!--END_SECTION:activity-->
 
 </details>
