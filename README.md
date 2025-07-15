@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/delitamakanda/fanfiction/pull/304) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 🎉 Merged PR [#302](https://github.com/delitamakanda/fanfiction/pull/302) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#301](https://github.com/delitamakanda/fanfiction/pull/301) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🎉 Merged PR [#303](https://github.com/delitamakanda/fanfiction/pull/303) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🎉 Merged PR [#4](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/4) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
+2. 🎉 Merged PR [#6](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/6) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
+3. 💪 Opened PR [#6](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/6) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
+4. 🎉 Merged PR [#5](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/5) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
 <!--END_SECTION:activity-->
 
 </details>
