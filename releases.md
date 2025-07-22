@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[citoyenne_futee](https://github.com/delitamakanda/citoyenne_futee)**: [v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
+<br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière
 * **[LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
 <br>Dashboard pour l'API de fidélisation client
 * **[LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
