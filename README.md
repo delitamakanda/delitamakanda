@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/4) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
-2. 🎉 Merged PR [#6](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/6) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
-3. 💪 Opened PR [#6](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/6) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
-4. 🎉 Merged PR [#5](https://github.com/delitamakanda/LoyaltyProgramDashboard/pull/5) in [delitamakanda/LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)
+1. ❌ Closed PR [#68](https://github.com/delitamakanda/invoice-cms/pull/68) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+2. ❌ Closed PR [#82](https://github.com/delitamakanda/invoice-cms/pull/82) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+3. ❌ Closed PR [#86](https://github.com/delitamakanda/invoice-cms/pull/86) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 🎉 Merged PR [#90](https://github.com/delitamakanda/invoice-cms/pull/90) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
