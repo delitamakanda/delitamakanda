@@ -3,6 +3,8 @@
 All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[citoyenne_futee_front](https://github.com/delitamakanda/citoyenne_futee_front)**: [v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
+<br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière (frontend)
 * **[citoyenne_futee](https://github.com/delitamakanda/citoyenne_futee)**: [v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 <br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière
 * **[LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
@@ -11,8 +13,6 @@ All <!-- release_count starts -->38<!-- release_count ends --> of my released pr
 <br>API de gestion d'un programme de fidélité client
 * **[Invest_Tracker](https://github.com/delitamakanda/Invest_Tracker)**: [v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 <br>Investments tracker
-* **[banky-front](https://github.com/delitamakanda/banky-front)**: [v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
-<br>frontend for banky api
 * **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
 <br>stencil webcomponent status page
 * **[timesheetv2](https://github.com/delitamakanda/timesheetv2)**: [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10

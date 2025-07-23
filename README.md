@@ -40,11 +40,11 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [citoyenne_futee_front v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
 * [citoyenne_futee v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 * [LoyaltyProgramDashboard v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
 * [LoyaltyProgram v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
 * [Invest_Tracker v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
-* [banky-front v1.0.0](https://github.com/delitamakanda/banky-front/releases/tag/v1.0.0) - 2025-03-23
 * [status-page-webcomponent v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
 * [timesheetv2 v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
 * [helpdesk v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
