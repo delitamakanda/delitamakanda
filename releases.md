@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[citoyenne_futee_front](https://github.com/delitamakanda/citoyenne_futee_front)**: [v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
@@ -37,8 +37,6 @@ All <!-- release_count starts -->38<!-- release_count ends --> of my released pr
 <br>recipes app in svelte with django
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 <br>docusaurus portfolio
-* **[dating-app](https://github.com/delitamakanda/dating-app)**: [v1.0.0](https://github.com/delitamakanda/dating-app/releases/tag/v1.0.0) - 2024-01-14
-<br>microservices in go
 * **[events-app](https://github.com/delitamakanda/events-app)**: [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
 <br>ticketing application sale
 * **[chronopost2.0](https://github.com/delitamakanda/chronopost2.0)**: [v1.0.0](https://github.com/delitamakanda/chronopost2.0/releases/tag/v1.0.0) - 2023-08-11
