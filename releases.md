@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[TripHelper](https://github.com/delitamakanda/TripHelper)**: [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
+<br>Planificateur de voyage et suivi de budget journalier
 * **[citoyenne_futee_front](https://github.com/delitamakanda/citoyenne_futee_front)**: [v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
 <br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière (frontend)
 * **[citoyenne_futee](https://github.com/delitamakanda/citoyenne_futee)**: [v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17

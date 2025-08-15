@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [TripHelper v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
 * [citoyenne_futee_front v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
 * [citoyenne_futee v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 * [LoyaltyProgramDashboard v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
@@ -47,7 +48,6 @@
 * [Invest_Tracker v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 * [status-page-webcomponent v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
 * [timesheetv2 v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
-* [helpdesk v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
