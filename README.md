@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/delitamakanda/invoice-cms/pull/93) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-2. 🎉 Merged PR [#92](https://github.com/delitamakanda/invoice-cms/pull/92) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 🎉 Merged PR [#234](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/234) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-4. ❌ Closed PR [#68](https://github.com/delitamakanda/invoice-cms/pull/68) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+1. 🚀 Published release [v1.3.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.3.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+2. ❗ Opened issue [#1](https://github.com/delitamakanda/TripHelper/issues/1) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+3. 🚀 Published release [v1.2.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.2.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+4. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
 <!--END_SECTION:activity-->
 
 </details>
