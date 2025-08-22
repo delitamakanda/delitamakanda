@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.3.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
-2. ❗ Opened issue [#1](https://github.com/delitamakanda/TripHelper/issues/1) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
-3. 🚀 Published release [v1.2.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.2.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
-4. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/draftmarks/releases/tag/v1.0.0) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+2. 🚀 Published release [v1.4.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.4.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+3. 🔒 Closed issue [#1](https://github.com/delitamakanda/TripHelper/issues/1) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+4. 🚀 Published release [v1.3.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.3.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
 <!--END_SECTION:activity-->
 
 </details>
