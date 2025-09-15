@@ -38,7 +38,7 @@ All <!-- release_count starts -->39<!-- release_count ends --> of my released pr
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
 <br>front for restaurant app backend
 * **[recipe](https://github.com/delitamakanda/recipe)**: [v1.0.0-dev](https://github.com/delitamakanda/recipe/releases/tag/v1.0.0-dev) - 2024-02-04
-<br>recipes app in svelte with django
+<br>recipes app with sveltekit
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 <br>docusaurus portfolio
 * **[events-app](https://github.com/delitamakanda/events-app)**: [v0.0.1](https://github.com/delitamakanda/events-app/releases/tag/v0.0.1) - 2023-12-03
