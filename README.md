@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/delitamakanda/GroceryApp/pull/8) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
-2. 🎉 Merged PR [#7](https://github.com/delitamakanda/GroceryApp/pull/7) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
-3. 💪 Opened PR [#8](https://github.com/delitamakanda/GroceryApp/pull/8) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
-4. 💪 Opened PR [#7](https://github.com/delitamakanda/GroceryApp/pull/7) in [delitamakanda/GroceryApp](https://github.com/delitamakanda/GroceryApp)
+1. 🎉 Merged PR [#97](https://github.com/delitamakanda/invoice-cms/pull/97) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+2. 🎉 Merged PR [#316](https://github.com/delitamakanda/fanfiction/pull/316) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. 🎉 Merged PR [#246](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/246) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+4. 🎉 Merged PR [#98](https://github.com/delitamakanda/invoice-cms/pull/98) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
