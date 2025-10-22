@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#243](undefined) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. 🎉 Merged PR [#316](https://github.com/delitamakanda/fanfiction/pull/316) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#246](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/246) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-4. 🎉 Merged PR [#98](https://github.com/delitamakanda/invoice-cms/pull/98) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+1. ❌ Assigned PR [#2](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+2. ❌ Labeled PR [#2](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+3. 💪 Opened PR [#2](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+4. ❌ Labeled PR [#1](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
 <!--END_SECTION:activity-->
 
 </details>
