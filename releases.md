@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->40<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
+<br>Agent IA de foire aux questions pour mon portfolio pro
 * **[draftmarks](https://github.com/delitamakanda/draftmarks)**: [v1.0.0](https://github.com/delitamakanda/draftmarks/releases/tag/v1.0.0) - 2025-08-19
 <br>An Astro + Supabase app that turns your Gmail drafts into a searchable, visual bookmark library
 * **[TripHelper](https://github.com/delitamakanda/TripHelper)**: [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
