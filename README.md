@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) in [delitamakanda/faq-worker](https://github.com/delitamakanda/faq-worker)
-2. ❌ Assigned PR [#101](undefined) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-3. 💪 Opened PR [#101](undefined) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
-4. ❌ Assigned PR [#2](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+1. 🗣 Commented on [#8](https://github.com/delitamakanda/microfrontend/pull/8#issuecomment-3497704429) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
+2. ❌ Assigned PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
+3. ❌ Labeled PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
+4. 💪 Opened PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
 <!--END_SECTION:activity-->
 
 </details>
