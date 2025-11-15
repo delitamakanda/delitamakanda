@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/delitamakanda/microfrontend/pull/8#issuecomment-3497704429) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-2. ❌ Assigned PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-3. ❌ Labeled PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-4. 💪 Opened PR [#8](undefined) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
+1. 🚀 Published release [v1.5.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.5.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
+2. ❌ Labeled PR [#323](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. 💪 Opened PR [#323](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 🗣 Commented on [#8](https://github.com/delitamakanda/microfrontend/pull/8#issuecomment-3497704429) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
 <!--END_SECTION:activity-->
 
 </details>
