@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->40<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
@@ -61,6 +61,8 @@ All <!-- release_count starts -->40<!-- release_count ends --> of my released pr
 <br>checkout system restful api
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 <br>blog app with django graphene
+* **[whatsapp-like](https://github.com/delitamakanda/whatsapp-like)**: [v1.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v1.0.0) - 2022-09-29
+<br>whatsapp-like monorepo
 * **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
 <br>try flutter
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28
