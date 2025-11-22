@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.5.0) in [delitamakanda/TripHelper](https://github.com/delitamakanda/TripHelper)
-2. ❌ Labeled PR [#323](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 💪 Opened PR [#323](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🗣 Commented on [#8](https://github.com/delitamakanda/microfrontend/pull/8#issuecomment-3497704429) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
+1. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v2.0.0) in [delitamakanda/whatsapp-like](https://github.com/delitamakanda/whatsapp-like)
+2. ❌ Closed PR [#5](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+3. 🗣 Commented on [#4](https://github.com/delitamakanda/draftmarks/pull/4#issuecomment-3539399105) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+4. ❌ Assigned PR [#4](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
 <!--END_SECTION:activity-->
 
 </details>
