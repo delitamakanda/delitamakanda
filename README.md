@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v2.0.0) in [delitamakanda/whatsapp-like](https://github.com/delitamakanda/whatsapp-like)
-2. ❌ Closed PR [#5](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
-3. 🗣 Commented on [#4](https://github.com/delitamakanda/draftmarks/pull/4#issuecomment-3539399105) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
-4. ❌ Assigned PR [#4](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) in [delitamakanda/zoom-like](https://github.com/delitamakanda/zoom-like)
+2. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v2.0.0) in [delitamakanda/whatsapp-like](https://github.com/delitamakanda/whatsapp-like)
+3. ❌ Closed PR [#5](undefined) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
+4. 🗣 Commented on [#4](https://github.com/delitamakanda/draftmarks/pull/4#issuecomment-3539399105) in [delitamakanda/draftmarks](https://github.com/delitamakanda/draftmarks)
 <!--END_SECTION:activity-->
 
 </details>
