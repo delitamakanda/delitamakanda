@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[zoom-like](https://github.com/delitamakanda/zoom-like)**: [v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) - 2025-11-22
+<br>zoom-like monorepo
 * **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
 <br>Agent IA de foire aux questions pour mon portfolio pro
 * **[draftmarks](https://github.com/delitamakanda/draftmarks)**: [v1.0.0](https://github.com/delitamakanda/draftmarks/releases/tag/v1.0.0) - 2025-08-19

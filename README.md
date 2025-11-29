@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [zoom-like v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) - 2025-11-22
 * [faq-worker v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
 * [draftmarks v1.0.0](https://github.com/delitamakanda/draftmarks/releases/tag/v1.0.0) - 2025-08-19
 * [TripHelper v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
@@ -47,7 +48,6 @@
 * [citoyenne_futee v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 * [LoyaltyProgramDashboard v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
 * [LoyaltyProgram v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
-* [Invest_Tracker v1.0.0](https://github.com/delitamakanda/Invest_Tracker/releases/tag/v1.0.0) - 2025-04-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
