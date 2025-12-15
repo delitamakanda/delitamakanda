@@ -3,6 +3,8 @@
 All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[banky-front-ui](https://github.com/delitamakanda/banky-front-ui)**: [v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
+<br>frontend app for bank api
 * **[zoom-like](https://github.com/delitamakanda/zoom-like)**: [v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) - 2025-11-22
 <br>zoom-like monorepo
 * **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
@@ -36,7 +38,7 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
 <br>a fanfiction webapp in vue3
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
-<br>standalone project for learning angular 20
+<br>standalone project for learning angular 21
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
 * **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
@@ -57,8 +59,6 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 <br>learning microfrontend architecture (wip)
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
 <br>multi-tenant restaurant rest api
-* **[timesheet](https://github.com/delitamakanda/timesheet)**: [v1.0.0](https://github.com/delitamakanda/timesheet/releases/tag/v1.0.0) - 2023-04-09
-<br>timesheet rest api
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 <br>checkout system restful api
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
