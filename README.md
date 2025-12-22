@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#263](undefined) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) in [delitamakanda/banky-front-ui](https://github.com/delitamakanda/banky-front-ui)
-3. ❌ Assigned PR [#62](undefined) in [delitamakanda/banky](https://github.com/delitamakanda/banky)
-4. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) in [delitamakanda/zoom-like](https://github.com/delitamakanda/zoom-like)
+1. ❌ Labeled PR [#332](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. 💪 Opened PR [#332](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. ❌ Labeled PR [#125](undefined) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 💪 Opened PR [#125](undefined) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
 <!--END_SECTION:activity-->
 
 </details>
