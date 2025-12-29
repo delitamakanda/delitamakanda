@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#332](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 💪 Opened PR [#332](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. ❌ Labeled PR [#125](undefined) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 💪 Opened PR [#125](undefined) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🚀 Published release [v2.1.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.1.0) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. ❌ Merged PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. ❌ Assigned PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 💪 Opened PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
