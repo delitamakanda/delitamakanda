@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.0](https://github.com/delitamakanda/fanfiction/releases/tag/v2.1.0) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. ❌ Merged PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. ❌ Assigned PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 💪 Opened PR [#341](undefined) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. ℹ️ Assigned PR [#4](https://github.com/delitamakanda/angular-shopping-cart/pull/4) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. 💪 Opened PR [#4](https://github.com/delitamakanda/angular-shopping-cart/pull/4) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+3. 🎉 Merged PR [#3](https://github.com/delitamakanda/angular-shopping-cart/pull/3) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+4. ℹ️ Assigned PR [#3](https://github.com/delitamakanda/angular-shopping-cart/pull/3) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
 <!--END_SECTION:activity-->
 
 </details>
