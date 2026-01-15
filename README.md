@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#4](https://github.com/delitamakanda/angular-shopping-cart/pull/4) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-2. 💪 Opened PR [#4](https://github.com/delitamakanda/angular-shopping-cart/pull/4) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-3. 🎉 Merged PR [#3](https://github.com/delitamakanda/angular-shopping-cart/pull/3) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-4. ℹ️ Assigned PR [#3](https://github.com/delitamakanda/angular-shopping-cart/pull/3) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+1. 🎉 Merged PR [#6](https://github.com/delitamakanda/LoyaltyProgram/pull/6) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+2. ℹ️ Labeled PR [#6](https://github.com/delitamakanda/LoyaltyProgram/pull/6) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+3. ℹ️ Assigned PR [#6](https://github.com/delitamakanda/LoyaltyProgram/pull/6) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
+4. 🎉 Merged PR [#7](https://github.com/delitamakanda/LoyaltyProgram/pull/7) in [delitamakanda/LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)
 <!--END_SECTION:activity-->
 
 </details>
