@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#10](https://github.com/delitamakanda/microfrontend/pull/10) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-2. 💪 Opened PR [#10](https://github.com/delitamakanda/microfrontend/pull/10) in [delitamakanda/microfrontend](https://github.com/delitamakanda/microfrontend)
-3. 🚀 Published release [v2.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v2.0.0) in [delitamakanda/hostel_management](https://github.com/delitamakanda/hostel_management)
-4. ℹ️ Labeled PR [#353](https://github.com/delitamakanda/fanfiction/pull/353) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🗣 Commented on [#367](https://github.com/delitamakanda/fanfiction/pull/367#issuecomment-3799077038) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. 🎉 Merged PR [#366](https://github.com/delitamakanda/fanfiction/pull/366) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. ℹ️ Assigned PR [#366](https://github.com/delitamakanda/fanfiction/pull/366) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 💪 Opened PR [#366](https://github.com/delitamakanda/fanfiction/pull/366) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
