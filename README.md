@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#373](https://github.com/delitamakanda/fanfiction/pull/373) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. 💪 Opened PR [#373](https://github.com/delitamakanda/fanfiction/pull/373) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🎉 Merged PR [#370](https://github.com/delitamakanda/fanfiction/pull/370) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 💪 Opened PR [#370](https://github.com/delitamakanda/fanfiction/pull/370) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+1. 🗣 Commented on [#877](https://github.com/googleapis/python-api-core/pull/877#issuecomment-3862101605) in [googleapis/python-api-core](https://github.com/googleapis/python-api-core)
+2. 🎉 Merged PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+3. ℹ️ Assigned PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+4. 💪 Opened PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
 <!--END_SECTION:activity-->
 
 </details>
