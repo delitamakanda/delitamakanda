@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->43<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)**: [v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
+<br>app front
 * **[banky-front-ui](https://github.com/delitamakanda/banky-front-ui)**: [v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
 <br>frontend app for bank api
 * **[zoom-like](https://github.com/delitamakanda/zoom-like)**: [v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) - 2025-11-22
