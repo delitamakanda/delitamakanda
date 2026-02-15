@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#877](https://github.com/googleapis/python-api-core/pull/877#issuecomment-3862101605) in [googleapis/python-api-core](https://github.com/googleapis/python-api-core)
-2. 🎉 Merged PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-3. ℹ️ Assigned PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-4. 💪 Opened PR [#31](https://github.com/delitamakanda/restaurant/pull/31) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+1. ℹ️ Assigned PR [#9](https://github.com/delitamakanda/scraper-front-kr/pull/9) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
+2. 💪 Opened PR [#9](https://github.com/delitamakanda/scraper-front-kr/pull/9) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
+3. 🎉 Merged PR [#7](https://github.com/delitamakanda/scraper-front-kr/pull/7) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
+4. 💪 Opened PR [#7](https://github.com/delitamakanda/scraper-front-kr/pull/7) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
 <!--END_SECTION:activity-->
 
 </details>
