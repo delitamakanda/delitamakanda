@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.2.0) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
-2. 🎉 Merged PR [#16](https://github.com/delitamakanda/scraper-front-kr/pull/16) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
-3. ℹ️ Assigned PR [#16](https://github.com/delitamakanda/scraper-front-kr/pull/16) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
-4. 🎉 Merged PR [#17](https://github.com/delitamakanda/scraper-front-kr/pull/17) in [delitamakanda/scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)
+1. ℹ️ Assigned PR [#6](https://github.com/delitamakanda/planner/pull/6) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+2. 💪 Opened PR [#6](https://github.com/delitamakanda/planner/pull/6) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+4. 🎉 Merged PR [#5](https://github.com/delitamakanda/planner/pull/5) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
 <!--END_SECTION:activity-->
 
 </details>
