@@ -40,6 +40,7 @@
 <h3 align="left">Recent releases</h3>
 
 <!-- recent_releases starts -->
+* [planner v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
 * [scraper-front-kr v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
 * [banky-front-ui v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
 * [zoom-like v1.0.0](https://github.com/delitamakanda/zoom-like/releases/tag/v1.0.0) - 2025-11-22
@@ -47,7 +48,6 @@
 * [draftmarks v1.0.0](https://github.com/delitamakanda/draftmarks/releases/tag/v1.0.0) - 2025-08-19
 * [TripHelper v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
 * [citoyenne_futee_front v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
-* [citoyenne_futee v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
 
