@@ -4,7 +4,7 @@ All <!-- release_count starts -->44<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[planner](https://github.com/delitamakanda/planner)**: [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
-<br>None
+<br>planificateur de projets en django 6
 * **[scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)**: [v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
 <br>app front
 * **[banky-front-ui](https://github.com/delitamakanda/banky-front-ui)**: [v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
