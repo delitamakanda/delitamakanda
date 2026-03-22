@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->44<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[planner](https://github.com/delitamakanda/planner)**: [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
@@ -31,8 +31,6 @@ All <!-- release_count starts -->44<!-- release_count ends --> of my released pr
 <br>stencil webcomponent status page
 * **[timesheetv2](https://github.com/delitamakanda/timesheetv2)**: [v1.0.0](https://github.com/delitamakanda/timesheetv2/releases/tag/v1.0.0) - 2025-02-10
 <br>timesheet api 
-* **[helpdesk](https://github.com/delitamakanda/helpdesk)**: [v1.0.0](https://github.com/delitamakanda/helpdesk/releases/tag/v1.0.0) - 2025-02-07
-<br>frontent app for ticket management api
 * **[ticket-management](https://github.com/delitamakanda/ticket-management)**: [v1.0.0](https://github.com/delitamakanda/ticket-management/releases/tag/v1.0.0) - 2025-02-03
 <br>ticket management API
 * **[incident-management](https://github.com/delitamakanda/incident-management)**: [v1.0.0](https://github.com/delitamakanda/incident-management/releases/tag/v1.0.0) - 2025-01-15
@@ -69,14 +67,10 @@ All <!-- release_count starts -->44<!-- release_count ends --> of my released pr
 <br>blog app with django graphene
 * **[whatsapp-like](https://github.com/delitamakanda/whatsapp-like)**: [v1.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v1.0.0) - 2022-09-29
 <br>whatsapp-like monorepo
-* **[grocery_app_front](https://github.com/delitamakanda/grocery_app_front)**: [v1.0.0](https://github.com/delitamakanda/grocery_app_front/releases/tag/v1.0.0) - 2022-07-03
-<br>try flutter
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28
 <br>webscraper kr fashion shops with django and selenium
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
 <br>cms for doing bills in vue.js
-* **[GroceryApp](https://github.com/delitamakanda/GroceryApp)**: [v1.0.1](https://github.com/delitamakanda/GroceryApp/releases/tag/v1.0.1) - 2021-05-24
-<br>django backend for grocery_app_front 
 * **[socialite](https://github.com/delitamakanda/socialite)**: [](https://github.com/delitamakanda/socialite/releases/tag/v2.0) - 2020-09-04
 <br>flask application facebook-like
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
