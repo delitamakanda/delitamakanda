@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/delitamakanda/fanfiction/pull/396) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. ❌ Closed PR [#387](https://github.com/delitamakanda/fanfiction/pull/387) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. ℹ️ Assigned PR [#391](https://github.com/delitamakanda/fanfiction/pull/391) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-4. 🚀 Published release [v2.1.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v2.1.0) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. 🎉 Merged PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+2. ℹ️ Labeled PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+3. ℹ️ Assigned PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+4. 💪 Opened PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
 <!--END_SECTION:activity-->
 
 </details>
