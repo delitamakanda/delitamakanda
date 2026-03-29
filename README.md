@@ -58,10 +58,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
-2. ℹ️ Labeled PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
-3. ℹ️ Assigned PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
-4. 💪 Opened PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
+1. 🎉 Merged PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. ℹ️ Assigned PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+3. 💪 Opened PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+4. 🎉 Merged PR [#12](https://github.com/delitamakanda/planner/pull/12) in [delitamakanda/planner](https://github.com/delitamakanda/planner)
 <!--END_SECTION:activity-->
 
 </details>
