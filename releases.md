@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)**: [v1.0.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.0.0) - 2026-04-07
+<br>None
 * **[planner](https://github.com/delitamakanda/planner)**: [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
 <br>planificateur de projets en django 6
 * **[scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)**: [v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
