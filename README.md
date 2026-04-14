@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Délita Makanda</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate angular senior frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delitamakanda&label=Profile%20views&color=0e75b6&style=flat" alt="delitamakanda" /> </p>
 
 <p align="left"> <a href="https://github.com/delitamakanda/github-profile-trophy"><img src="https://github-profile-trophy-weld-theta.vercel.app/?username=delitamakanda&theme=light" alt="delitamakanda" /></a> </p>
 
-- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend) and [Recipe App](https://github.com/delitamakanda/recipe)
+- 🔭 I’m currently working on [Microfrontend](https://github.com/delitamakanda/microfrontend) and [Taiwan Travel](https://github.com/delitamakanda/angular-ssr-taiwan)
 
-- 🌱 I’m currently learning **Angular + React + Vue + Svelte**
+- 🌱 I build web and mobile applications with **Angular + React + Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/delitamakanda](https://github.com/delitamakanda)
 
@@ -32,10 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=delitamakanda&show_icons=true&locale=en" alt="delitamakanda" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats-k3nen14x3-delitamakanda.vercel.app?user=delitamakanda)](https://git.io/streak-stats)
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-iota-three.vercel.app/api/spotify-playing" alt="Délita MAKANDA Spotify Playing" width="350" />](https://open.spotify.com/user/delita.makanda)
 
 <h3 align="left">Recent releases</h3>
 
@@ -67,5 +63,9 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
 </details>
 
 <a href="https://github.com/delitamakanda/delitamakanda/actions"><img src="https://github.com/delitamakanda/delitamakanda/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-iota-three.vercel.app/api/spotify-playing" alt="Délita MAKANDA Spotify Playing" width="350" />](https://open.spotify.com/user/delita.makanda)
 
 
