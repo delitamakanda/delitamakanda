@@ -54,10 +54,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.0.0) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-2. 🎉 Merged PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-3. ℹ️ Assigned PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-4. 💪 Opened PR [#5](https://github.com/delitamakanda/angular-shopping-cart/pull/5) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+1. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/angular-ssr-taiwan/releases/tag/v1.0.0) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
+2. 🎉 Merged PR [#2](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/2) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+3. 💪 Opened PR [#2](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/2) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+4. 🚀 Published release [v1.1.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.1.0) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
 <!--END_SECTION:activity-->
 
 </details>
