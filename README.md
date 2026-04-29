@@ -180,10 +180,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v2.1.1) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. 🎉 Merged PR [#298](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/298) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-3. ℹ️ Labeled PR [#298](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/298) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-4. ℹ️ Labeled PR [#298](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/298) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. ℹ️ Assigned PR [#403](https://github.com/delitamakanda/fanfiction/pull/403) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+2. ℹ️ Assigned PR [#401](https://github.com/delitamakanda/fanfiction/pull/401) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+3. 🎉 Merged PR [#402](https://github.com/delitamakanda/fanfiction/pull/402) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
+4. 💪 Opened PR [#402](https://github.com/delitamakanda/fanfiction/pull/402) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
 <!--END_SECTION:activity-->
 
 </details>
