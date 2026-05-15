@@ -49,10 +49,10 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 <br>checkout system restful api
 * **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
 <br>blog app with django graphene
-* **[whatsapp-like](https://github.com/delitamakanda/whatsapp-like)**: [v1.0.0](https://github.com/delitamakanda/whatsapp-like/releases/tag/v1.0.0) - 2022-09-29
-<br>whatsapp-like monorepo
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28
 <br>webscraper kr fashion shops with django and selenium
+* **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
+<br>générateur de factures pdf en Django / Vue 3
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
 * **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
