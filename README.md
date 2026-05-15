@@ -180,10 +180,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/delitamakanda/elearning/pull/125#issuecomment-4374704483) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-2. 🗣 Commented on [#125](https://github.com/delitamakanda/elearning/pull/125#issuecomment-4374674175) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. ℹ️ Assigned PR [#125](https://github.com/delitamakanda/elearning/pull/125) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🗣 Commented on [#125](https://github.com/delitamakanda/elearning/pull/125#issuecomment-4374652003) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+1. 🎉 Merged PR [#124](https://github.com/delitamakanda/invoice-cms/pull/124) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+2. ℹ️ Labeled PR [#124](https://github.com/delitamakanda/invoice-cms/pull/124) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+3. ℹ️ Assigned PR [#124](https://github.com/delitamakanda/invoice-cms/pull/124) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
+4. 💪 Opened PR [#124](https://github.com/delitamakanda/invoice-cms/pull/124) in [delitamakanda/invoice-cms](https://github.com/delitamakanda/invoice-cms)
 <!--END_SECTION:activity-->
 
 </details>
