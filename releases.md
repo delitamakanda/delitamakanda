@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[jobs-scraper](https://github.com/delitamakanda/jobs-scraper)**: [v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
+<br>AI-powered career assistant for senior Angular developers. Analyze job offers, generate interview prep, match skills, and manage applications with Django, Angular, and OpenAI.
 * **[angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)**: [v1.0.0](https://github.com/delitamakanda/angular-ssr-taiwan/releases/tag/v1.0.0) - 2026-04-14
 <br>platform for Taiwan tourism 🇹🇼
 * **[angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)**: [v1.0.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.0.0) - 2026-04-07
@@ -17,12 +19,8 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 <br>Agent IA de foire aux questions pour mon portfolio pro
 * **[TripHelper](https://github.com/delitamakanda/TripHelper)**: [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
 <br>Planificateur de voyage et suivi de budget journalier
-* **[citoyenne_futee_front](https://github.com/delitamakanda/citoyenne_futee_front)**: [v1.2.0](https://github.com/delitamakanda/citoyenne_futee_front/releases/tag/v1.2.0) - 2025-07-23
-<br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière (frontend)
 * **[citoyenne_futee](https://github.com/delitamakanda/citoyenne_futee)**: [v1.0.0](https://github.com/delitamakanda/citoyenne_futee/releases/tag/v1.0.0) - 2025-07-17
 <br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière
-* **[LoyaltyProgramDashboard](https://github.com/delitamakanda/LoyaltyProgramDashboard)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgramDashboard/releases/tag/v1.0.0) - 2025-07-08
-<br>Dashboard pour l'API de fidélisation client
 * **[LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
 <br>API de gestion d'un programme de fidélité client
 * **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
