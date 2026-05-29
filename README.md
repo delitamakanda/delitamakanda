@@ -180,10 +180,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#141](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/141) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-2. ℹ️ Unlabeled issue [#141](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/141) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-3. ❗ Opened issue [#142](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/142) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-4. ℹ️ Labeled issue [#142](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/142) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+1. 🔒 Closed issue [#72](https://github.com/delitamakanda/jobs-scraper/issues/72) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+2. ℹ️ Labeled issue [#122](https://github.com/delitamakanda/jobs-scraper/issues/122) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+3. ℹ️ Assigned issue [#122](https://github.com/delitamakanda/jobs-scraper/issues/122) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+4. ℹ️ Labeled issue [#123](https://github.com/delitamakanda/jobs-scraper/issues/123) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
 <!--END_SECTION:activity-->
 
 </details>
