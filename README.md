@@ -180,10 +180,10 @@ More [recent releases](https://github.com/delitamakanda/delitamakanda/blob/maste
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#72](https://github.com/delitamakanda/jobs-scraper/issues/72) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
-2. ℹ️ Labeled issue [#122](https://github.com/delitamakanda/jobs-scraper/issues/122) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
-3. ℹ️ Assigned issue [#122](https://github.com/delitamakanda/jobs-scraper/issues/122) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
-4. ℹ️ Labeled issue [#123](https://github.com/delitamakanda/jobs-scraper/issues/123) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+1. ℹ️ Assigned issue [#77](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/77) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+2. 🎉 Merged PR [#156](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/156) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+3. 🔒 Closed issue [#23](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/23) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+4. 🎉 Merged PR [#155](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/155) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
 <!--END_SECTION:activity-->
 
 </details>
