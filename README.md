@@ -102,8 +102,8 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=delitamakanda&show_icons=true&locale=en" alt="Statistiques GitHub de Délita Makanda" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=delitamakanda&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés par Délita Makanda" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=delitamakanda&show_icons=true&locale=fr" alt="Statistiques GitHub de Délita Makanda" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=delitamakanda&show_icons=true&locale=fr&layout=compact" alt="Langages les plus utilisés par Délita Makanda" />
 
 [![GitHub Streak](https://github-readme-streak-stats-k3nen14x3-delitamakanda.vercel.app?user=delitamakanda)](https://git.io/streak-stats)
 
