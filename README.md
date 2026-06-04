@@ -125,7 +125,7 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 ---
 
-## 🎧 Spotify Playing
+## 🎧 En écoute sur Spotify
 
 [<img src="https://spotify-now-playing-iota-three.vercel.app/api/spotify-playing" alt="Délita MAKANDA Spotify Playing" width="350" />](https://open.spotify.com/user/delita.makanda)
 
