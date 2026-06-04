@@ -50,7 +50,7 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 ## 🛠️ Stack technique
 
-### Frontend principal
+### Frontend stack 
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -107,7 +107,7 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 [![GitHub Streak](https://github-readme-streak-stats-k3nen14x3-delitamakanda.vercel.app?user=delitamakanda)](https://git.io/streak-stats)
 
-[![Github Tropy](https://github-profile-trophy-weld-theta.vercel.app/?username=delitamakanda&theme=light)](https://github.com/delitamakanda/github-profile-trophy)
+[![Github Trophy](https://github-profile-trophy-weld-theta.vercel.app/?username=delitamakanda&theme=light)](https://github.com/delitamakanda/github-profile-trophy)
 
 </div>
 
