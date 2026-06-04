@@ -16,17 +16,16 @@
 
 ## 👋 À propos
 
-Je suis **développeuse frontend Angular senior**, spécialisée dans la conception d'applications web maintenables, performantes et orientées produit. J'aime transformer un besoin métier en interfaces claires, architectures frontend robustes et parcours utilisateurs fiables.
+Je suis **développeuse frontend Angular senior**, spécialisée dans la conception d'applications web performantes et orientées produit. J'aime transformer un besoin métier en interfaces claires, architectures frontend robustes et parcours utilisateurs fiables.
 
-Mon cœur d'expertise est l'**écosystème Angular** : architecture de composants, RxJS, formulaires, routing, performance, SSR, microfrontends et industrialisation frontend.
+Mon cœur d'expertise est l'**écosystème Angular** : architecture de composants, RxJS, formulaires, routing, performance et SSR.
 
 ### Ce que j'apporte à une équipe
 
 - **Expertise Angular senior** : architecture applicative, composants réutilisables, RxJS, formulaires, routing et maintenabilité.
-- **Vision produit** : compréhension des besoins utilisateurs, priorisation pragmatique et livraison de fonctionnalités utiles.
-- **Culture architecture frontend** : code structuré, patterns évolutifs, séparation des responsabilités et dette technique maîtrisée.
-- **Qualité logicielle** : lisibilité du code, tests, discipline de release, documentation et amélioration continue.
-- **Collaboration transverse** : échanges efficaces avec backend, design, produit, QA et parties prenantes métier.
+- **Vision produit** : compréhension des besoins utilisateurs, priorisation pragmatique et livraison de fonctionnalités.
+- **Qualité logicielle** : tests, release, séparation des responsabilités, documentation et amélioration continue.
+- **Collaboration transverse** : échanges avec backend, design, product owner, QA et équipes métier.
 
 ---
 
@@ -34,22 +33,18 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 | Projet | Focus | Ce que le projet montre |
 | --- | --- | --- |
-| [Microfrontend](https://github.com/delitamakanda/microfrontend) | Angular · Architecture · Microfrontends | Capacité à structurer une application modulaire et à penser la scalabilité frontend. |
 | [Taiwan Travel](https://github.com/delitamakanda/angular-ssr-taiwan) | Angular · SSR · Expérience voyage | Mise en avant du SSR, de la performance, du SEO et d'une expérience produit soignée. |
 | [Angular QR Code Restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant) | Angular · Parcours métier · QR Code | Implémentation d'un workflow concret, orienté usage et logique business. |
-| [Banky Front UI](https://github.com/delitamakanda/banky-front-ui) | UI engineering · Domaine finance | Travail d'interface structuré pour un contexte où clarté, cohérence et fiabilité sont essentielles. |
-| [Planner](https://github.com/delitamakanda/planner) | Productivité · Expérience frontend | Conception de fonctionnalités utiles, lisibles et adaptées à un usage quotidien. |
 
-> Mon GitHub est un portfolio vivant : projets, releases et activité montrent ma façon de structurer, itérer et livrer du logiciel.
+> Mon GitHub est un portfolio vivant : projets, releases et activité montrent ma façon de structurer, itérer et livrer des applications.
 
 ---
 
 ## 🧭 Focus actuel
 
-- Construire des **applications Angular** avec des standards d'architecture professionnels.
-- Explorer les **microfrontends** pour des plateformes frontend modulaires et évolutives.
+- Construire des **applications Angular** avec des standards professionnels actuels.
 - Améliorer le **SSR, la performance et le SEO** des applications web modernes.
-- Documenter et publier des projets avec une logique de release claire.
+- Documenter et publier des projets avec une logique de release claire et à terme l'automatiser.
 
 ---
 
