@@ -117,10 +117,10 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#77](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/77) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-2. 🎉 Merged PR [#156](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/156) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-3. 🔒 Closed issue [#23](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/23) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-4. 🎉 Merged PR [#155](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/155) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+1. 🚀 Published release [v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+2. ❗ Opened issue [#2932](https://github.com/microsoft/Oryx/issues/2932) in [microsoft/Oryx](https://github.com/microsoft/Oryx)
+3. ℹ️ Assigned PR [#13](https://github.com/delitamakanda/angular-shopping-cart/pull/13) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+4. 💪 Opened PR [#13](https://github.com/delitamakanda/angular-shopping-cart/pull/13) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
 <!--END_SECTION:activity-->
 
 </details>
