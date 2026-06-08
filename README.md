@@ -84,6 +84,7 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 ## 📦 Releases récentes
 
 <!-- recent_releases starts -->
+* [orion-platform v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) - 2026-06-05
 * [special-rotary-phone v0.2.0-alpha](https://github.com/delitamakanda/special-rotary-phone/releases/tag/v0.2.0-alpha) - 2026-05-22
 * [jobs-scraper v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
 * [angular-ssr-taiwan v1.0.0](https://github.com/delitamakanda/angular-ssr-taiwan/releases/tag/v1.0.0) - 2026-04-14
@@ -91,7 +92,6 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 * [planner v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
 * [scraper-front-kr v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
 * [banky-front-ui v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
-* [faq-worker v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
 <!-- recent_releases ends -->
 
 ➡️ Voir toutes les [releases récentes](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
