@@ -16,9 +16,9 @@
 
 ## 👋 À propos
 
-Je suis **développeuse frontend Angular senior**, spécialisée dans la conception d'applications web performantes et orientées produit. J'aime transformer un besoin métier en interfaces claires, architectures frontend robustes et parcours utilisateurs fiables.
+Je suis **développeuse frontend spécialisée Angular**, avec une expérience dans la conception d’applications web et mobiles orientées utilisateur et workflow métier spécifique.
 
-Mon cœur d'expertise est l'**écosystème Angular** : architecture de composants, RxJS, formulaires, routing, performance et SSR.
+J’aime partir d’un besoin métier, comprendre le contexte, puis construire des interfaces claires, maintenables et agréables à utiliser. Je m’intéresse particulièrement à l’**écosystème Angular** : composants, RxJS, formulaires, routing, performance, SSR et structuration des projets.
 
 ### Ce que j'apporte à une équipe
 
@@ -135,7 +135,7 @@ Mon cœur d'expertise est l'**écosystème Angular** : architecture de composant
 
 ## 🤝 Me contacter
 
-Si vous recherchez une **développeuse frontend Angular senior** capable de contribuer à l'architecture, à la qualité de livraison et à l'expérience produit, vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/delitamakanda) ou par [email](https://mailhide.io/e/7Z9YnmXq).
+Si vous recherchez une **développeuse frontend Angular** pour contribuer à une application web, améliorer une interface ou renforcer une base frontend existante, vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/delitamakanda) ou par [email](https://mailhide.io/e/7Z9YnmXq).
 
 <a href="https://github.com/delitamakanda/delitamakanda/actions"><img src="https://github.com/delitamakanda/delitamakanda/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
