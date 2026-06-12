@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[orion-platform](https://github.com/delitamakanda/orion-platform)**: [v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) - 2026-06-05
+<br>Plateforme d'aide à l'analyse et à la priorisation des signalements
 * **[jobs-scraper](https://github.com/delitamakanda/jobs-scraper)**: [v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
 <br>AI-powered career assistant for senior Angular developers. Analyze job offers, generate interview prep, match skills, and manage applications with Django, Angular, and OpenAI.
 * **[angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)**: [v1.0.0](https://github.com/delitamakanda/angular-ssr-taiwan/releases/tag/v1.0.0) - 2026-04-14
