@@ -50,7 +50,7 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
 
 ## 🛠️ Stack technique
 
-### Frontend stack 
+### Stack principal
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
