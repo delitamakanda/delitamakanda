@@ -1,10 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[orion-platform](https://github.com/delitamakanda/orion-platform)**: [v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) - 2026-06-05
-<br>Plateforme d'aide à l'analyse et à la priorisation des signalements
+<br>Plateforme d'aide à l'analyse et à la priorisation des plaintes pour les agents, magistrats et procureurs
 * **[jobs-scraper](https://github.com/delitamakanda/jobs-scraper)**: [v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
 <br>AI-powered career assistant for senior Angular developers. Analyze job offers, generate interview prep, match skills, and manage applications with Django, Angular, and OpenAI.
 * **[angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)**: [v1.0.0](https://github.com/delitamakanda/angular-ssr-taiwan/releases/tag/v1.0.0) - 2026-04-14
@@ -25,8 +25,6 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 <br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière
 * **[LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
 <br>API de gestion d'un programme de fidélité client
-* **[status-page-webcomponent](https://github.com/delitamakanda/status-page-webcomponent)**: [v1.0.0](https://github.com/delitamakanda/status-page-webcomponent/releases/tag/v1.0.0) - 2025-03-10
-<br>stencil webcomponent status page
 * **[emails](https://github.com/delitamakanda/emails)**: [v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
 <br>email nuxt application 
 * **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
