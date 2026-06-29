@@ -117,10 +117,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/delitamakanda/orion-platform/issues/29) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-2. ℹ️ Assigned issue [#18](https://github.com/delitamakanda/orion-platform/issues/18) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-3. 🔒 Closed issue [#22](https://github.com/delitamakanda/orion-platform/issues/22) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-4. 🔒 Closed issue [#23](https://github.com/delitamakanda/orion-platform/issues/23) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+1. 🔒 Closed issue [#33](https://github.com/delitamakanda/orion-platform/issues/33) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+2. 🔒 Closed issue [#24](https://github.com/delitamakanda/orion-platform/issues/24) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+3. 🎉 Merged PR [#43](https://github.com/delitamakanda/orion-platform/pull/43) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+4. ℹ️ Assigned PR [#43](https://github.com/delitamakanda/orion-platform/pull/43) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
 <!--END_SECTION:activity-->
 
 </details>
