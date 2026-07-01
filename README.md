@@ -117,10 +117,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/delitamakanda/orion-platform/issues/33) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-2. 🔒 Closed issue [#24](https://github.com/delitamakanda/orion-platform/issues/24) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-3. 🎉 Merged PR [#43](https://github.com/delitamakanda/orion-platform/pull/43) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
-4. ℹ️ Assigned PR [#43](https://github.com/delitamakanda/orion-platform/pull/43) in [delitamakanda/orion-platform](https://github.com/delitamakanda/orion-platform)
+1. 💪 Opened PR [#15](https://github.com/delitamakanda/angular-shopping-cart/pull/15) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. 🎉 Merged PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+3. ℹ️ Assigned PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+4. 💪 Opened PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
 <!--END_SECTION:activity-->
 
 </details>
