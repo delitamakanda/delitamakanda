@@ -117,10 +117,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/delitamakanda/angular-shopping-cart/pull/15) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
-2. 🎉 Merged PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
-3. ℹ️ Assigned PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
-4. 💪 Opened PR [#142](https://github.com/delitamakanda/jobs-scraper/pull/142) in [delitamakanda/jobs-scraper](https://github.com/delitamakanda/jobs-scraper)
+1. 🎉 Merged PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
+2. ℹ️ Labeled PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
+3. ℹ️ Assigned PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
+4. 💪 Opened PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
 <!--END_SECTION:activity-->
 
 </details>
