@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[cli-multi-agent](https://github.com/delitamakanda/cli-multi-agent)**: [v0.2.0-alpha](https://github.com/delitamakanda/cli-multi-agent/releases/tag/v0.2.0-alpha) - 2026-07-02
+<br>A CLI multi-agent tool that audits a git repository or local folder
 * **[orion-platform](https://github.com/delitamakanda/orion-platform)**: [v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) - 2026-06-05
 <br>Plateforme d'aide à l'analyse et à la priorisation des plaintes pour les agents, magistrats et procureurs
 * **[jobs-scraper](https://github.com/delitamakanda/jobs-scraper)**: [v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
