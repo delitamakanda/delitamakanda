@@ -117,10 +117,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
-2. ℹ️ Labeled PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
-3. ℹ️ Assigned PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
-4. 💪 Opened PR [#7](https://github.com/delitamakanda/angular-ssr-taiwan/pull/7) in [delitamakanda/angular-ssr-taiwan](https://github.com/delitamakanda/angular-ssr-taiwan)
+1. 🎉 Merged PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+2. ℹ️ Labeled PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+3. ℹ️ Labeled PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+4. 💪 Opened PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
 <!--END_SECTION:activity-->
 
 </details>
