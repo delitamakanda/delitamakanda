@@ -117,10 +117,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-2. ℹ️ Labeled PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-3. ℹ️ Labeled PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
-4. 💪 Opened PR [#316](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/316) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. ℹ️ Assigned PR [#52](https://github.com/delitamakanda/restaurant/pull/52) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
+2. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart-orchestrator/releases/tag/v1.0.0) in [delitamakanda/angular-shopping-cart-orchestrator](https://github.com/delitamakanda/angular-shopping-cart-orchestrator)
+3. 🚀 Published release [v2.2.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v2.2.0) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+4. 🎉 Merged PR [#317](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/317) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
 <!--END_SECTION:activity-->
 
 </details>
