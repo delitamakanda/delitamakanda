@@ -84,6 +84,7 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
 ## 📦 Releases récentes
 
 <!-- recent_releases starts -->
+* [angular-shopping-cart-orchestrator v1.0.0](https://github.com/delitamakanda/angular-shopping-cart-orchestrator/releases/tag/v1.0.0) - 2026-07-17
 * [cli-multi-agent v0.2.0-alpha](https://github.com/delitamakanda/cli-multi-agent/releases/tag/v0.2.0-alpha) - 2026-07-02
 * [orion-platform v0.2.0-alpha](https://github.com/delitamakanda/orion-platform/releases/tag/v0.2.0-alpha) - 2026-06-05
 * [jobs-scraper v1.0.0](https://github.com/delitamakanda/jobs-scraper/releases/tag/v1.0.0) - 2026-05-19
@@ -91,7 +92,6 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
 * [angular-qrcode-restaurant v1.0.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.0.0) - 2026-04-07
 * [planner v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
 * [scraper-front-kr v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
-* [banky-front-ui v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
 <!-- recent_releases ends -->
 
 ➡️ Voir toutes les [releases récentes](https://github.com/delitamakanda/delitamakanda/blob/master/releases.md)
