@@ -101,8 +101,8 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
 ## 📊 Aperçu GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=delitamakanda&show_icons=true&locale=fr" alt="Statistiques GitHub de Délita Makanda" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=delitamakanda&show_icons=true&locale=fr&layout=compact" alt="Langages les plus utilisés par Délita Makanda" />
+<img height="165" src="https://raw.githubusercontent.com/delitamakanda/delitamakanda/refs/heads/master/profile/stats.svg" alt="Statistiques GitHub de Délita Makanda" />
+<img height="165" src="https://raw.githubusercontent.com/delitamakanda/delitamakanda/refs/heads/master/profile/top-langs.svg" alt="Langages les plus utilisés par Délita Makanda" />
 
 [![Github Streak](https://raw.githubusercontent.com/delitamakanda/github-readme-streak-stats/refs/heads/main/profile/streak.svg)](https://git.io/streak-stats)
 
