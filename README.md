@@ -116,10 +116,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/delitamakanda/delitamakanda/pull/4) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
-2. 💪 Opened PR [#4](https://github.com/delitamakanda/delitamakanda/pull/4) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
-3. ℹ️ Assigned PR [#52](https://github.com/delitamakanda/restaurant/pull/52) in [delitamakanda/restaurant](https://github.com/delitamakanda/restaurant)
-4. 🎉 Merged PR [#317](https://github.com/delitamakanda/scraper-kr-fashion-shops/pull/317) in [delitamakanda/scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)
+1. 🎉 Merged PR [#1](https://github.com/delitamakanda/assistant-ai-bedrock/pull/1) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+2. 💪 Opened PR [#1](https://github.com/delitamakanda/assistant-ai-bedrock/pull/1) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+3. 🚀 Published release [v1.0.0](https://github.com/delitamakanda/assistant-ai-bedrock/releases/tag/v1.0.0) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+4. 🎉 Merged PR [#4](https://github.com/delitamakanda/delitamakanda/pull/4) in [delitamakanda/delitamakanda](https://github.com/delitamakanda/delitamakanda)
 <!--END_SECTION:activity-->
 
 </details>
