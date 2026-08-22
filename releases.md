@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->32<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->33<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)**: [v1.0.0](https://github.com/delitamakanda/assistant-ai-bedrock/releases/tag/v1.0.0) - 2026-08-18
+<br>ai chat-assistant with amazon bedrock and cloudflare workers
 * **[angular-shopping-cart-orchestrator](https://github.com/delitamakanda/angular-shopping-cart-orchestrator)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart-orchestrator/releases/tag/v1.0.0) - 2026-07-17
 <br>None
 * **[cli-multi-agent](https://github.com/delitamakanda/cli-multi-agent)**: [v0.2.0-alpha](https://github.com/delitamakanda/cli-multi-agent/releases/tag/v0.2.0-alpha) - 2026-07-02
