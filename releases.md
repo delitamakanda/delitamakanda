@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->33<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)**: [v1.0.0](https://github.com/delitamakanda/assistant-ai-bedrock/releases/tag/v1.0.0) - 2026-08-18
@@ -19,10 +19,6 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 <br>cashier.tw clone with Angular 21
 * **[planner](https://github.com/delitamakanda/planner)**: [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
 <br>planificateur de projets en django 6
-* **[scraper-front-kr](https://github.com/delitamakanda/scraper-front-kr)**: [v1.0.0](https://github.com/delitamakanda/scraper-front-kr/releases/tag/v1.0.0) - 2026-02-12
-<br>app front
-* **[banky-front-ui](https://github.com/delitamakanda/banky-front-ui)**: [v1.0.0](https://github.com/delitamakanda/banky-front-ui/releases/tag/v1.0.0) - 2025-12-14
-<br>frontend app for bank api
 * **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
 <br>Agent IA de foire aux questions pour mon portfolio pro
 * **[TripHelper](https://github.com/delitamakanda/TripHelper)**: [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
@@ -31,9 +27,7 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 <br>Plateforme e-learning de formation à la citoyenneté et à l'éducation financière
 * **[LoyaltyProgram](https://github.com/delitamakanda/LoyaltyProgram)**: [v1.0.0](https://github.com/delitamakanda/LoyaltyProgram/releases/tag/v.1.0.0) - 2025-06-27
 <br>API de gestion d'un programme de fidélité client
-* **[emails](https://github.com/delitamakanda/emails)**: [v1.0.0](https://github.com/delitamakanda/emails/releases/tag/v1.0.0) - 2025-01-03
-<br>email nuxt application 
-* **[fanfiction-webapp](https://github.com/delitamakanda/fanfiction-webapp)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-webapp/releases/tag/v1.0.0) - 2024-12-13
+* **[fanfiction-front-vue](https://github.com/delitamakanda/fanfiction-front-vue)**: [v1.0.0](https://github.com/delitamakanda/fanfiction-front-vue/releases/tag/v1.0.0) - 2024-12-13
 <br>a fanfiction webapp in vue3
 * **[angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart/releases/tag/v1.0.0) - 2024-09-29
 <br>standalone project for learning angular 22
@@ -43,8 +37,6 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 <br>front for restaurant app backend
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 <br>docusaurus portfolio
-* **[hostel_management](https://github.com/delitamakanda/hostel_management)**: [v1.0.0](https://github.com/delitamakanda/hostel_management/releases/tag/v1.0.0) - 2023-07-02
-<br>hostel management application
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture (wip)
 * **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
@@ -59,7 +51,7 @@ All <!-- release_count starts -->33<!-- release_count ends --> of my released pr
 <br>générateur de factures pdf en Django / Vue 3
 * **[treelo](https://github.com/delitamakanda/treelo)**: [](https://github.com/delitamakanda/treelo/releases/tag/v0.2) - 2020-08-19
 <br>trello-like (reactjs, flask)
-* **[banky](https://github.com/delitamakanda/banky)**: [](https://github.com/delitamakanda/banky/releases/tag/v1.0) - 2020-07-19
+* **[banking-api](https://github.com/delitamakanda/banking-api)**: [](https://github.com/delitamakanda/banking-api/releases/tag/v1.0) - 2020-07-19
 <br>budget api django and djangorestframework
 * **[scrumboard](https://github.com/delitamakanda/scrumboard)**: [v1.1.0](https://github.com/delitamakanda/scrumboard/releases/tag/v1.1.0) - 2020-07-19
 <br>scrumboard with django and angularjs
