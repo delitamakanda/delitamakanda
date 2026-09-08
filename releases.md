@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ingestion-api](https://github.com/delitamakanda/ingestion-api)**: [v0.1.0](https://github.com/delitamakanda/ingestion-api/releases/tag/v0.1.0) - 2026-09-04
+<br>search engine in python
 * **[assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)**: [v1.0.0](https://github.com/delitamakanda/assistant-ai-bedrock/releases/tag/v1.0.0) - 2026-08-18
 <br>ai chat-assistant with amazon bedrock and cloudflare workers
 * **[angular-shopping-cart-orchestrator](https://github.com/delitamakanda/angular-shopping-cart-orchestrator)**: [v1.0.0](https://github.com/delitamakanda/angular-shopping-cart-orchestrator/releases/tag/v1.0.0) - 2026-07-17
