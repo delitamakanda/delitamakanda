@@ -116,10 +116,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.1](https://github.com/delitamakanda/fanfiction/releases/tag/v2.2.1) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-2. ℹ️ Assigned PR [#443](https://github.com/delitamakanda/fanfiction/pull/443) in [delitamakanda/fanfiction](https://github.com/delitamakanda/fanfiction)
-3. 🚀 Published release [v1.1.2](https://github.com/delitamakanda/portftolio/releases/tag/v1.1.2) in [delitamakanda/portftolio](https://github.com/delitamakanda/portftolio)
-4. 🚀 Published release [v0.1.0](https://github.com/delitamakanda/ingestion-api/releases/tag/v0.1.0) in [delitamakanda/ingestion-api](https://github.com/delitamakanda/ingestion-api)
+1. 🎉 Merged PR [#6](https://github.com/delitamakanda/assistant-ai-bedrock/pull/6) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+2. 💪 Opened PR [#6](https://github.com/delitamakanda/assistant-ai-bedrock/pull/6) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+3. 🎉 Merged PR [#5](https://github.com/delitamakanda/assistant-ai-bedrock/pull/5) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+4. 💪 Opened PR [#5](https://github.com/delitamakanda/assistant-ai-bedrock/pull/5) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
 <!--END_SECTION:activity-->
 
 </details>
