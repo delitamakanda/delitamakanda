@@ -116,10 +116,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/delitamakanda/assistant-ai-bedrock/pull/6) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
-2. 💪 Opened PR [#6](https://github.com/delitamakanda/assistant-ai-bedrock/pull/6) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
-3. 🎉 Merged PR [#5](https://github.com/delitamakanda/assistant-ai-bedrock/pull/5) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
-4. 💪 Opened PR [#5](https://github.com/delitamakanda/assistant-ai-bedrock/pull/5) in [delitamakanda/assistant-ai-bedrock](https://github.com/delitamakanda/assistant-ai-bedrock)
+1. 🎉 Merged PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+2. ℹ️ Assigned PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+3. 💪 Opened PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
+4. 🎉 Merged PR [#160](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/160) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
 <!--END_SECTION:activity-->
 
 </details>
