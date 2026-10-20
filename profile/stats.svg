@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">D&#233;lita Makanda&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 166, Total Commits  (last year) : 1034, Total PRs: 245, Total Issues: 309, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 166, Total Commits  (last year) : 1038, Total PRs: 245, Total Issues: 317, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 26.501423543505943;
+        stroke-dashoffset: 26.474354462519788;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >309</text>
+      >317</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
