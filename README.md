@@ -116,10 +116,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-2. ℹ️ Assigned PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-3. 💪 Opened PR [#136](https://github.com/delitamakanda/elearning/pull/136) in [delitamakanda/elearning](https://github.com/delitamakanda/elearning)
-4. 🎉 Merged PR [#160](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/160) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+1. ℹ️ Labeled issue [#120](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/120) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+2. 🔒 Closed issue [#20](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/20) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+3. 🔒 Closed issue [#38](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/38) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+4. 🔒 Closed issue [#209](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/209) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
 <!--END_SECTION:activity-->
 
 </details>
