@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[ingestion-api](https://github.com/delitamakanda/ingestion-api)**: [v0.1.0](https://github.com/delitamakanda/ingestion-api/releases/tag/v0.1.0) - 2026-09-04
@@ -19,8 +19,6 @@ All <!-- release_count starts -->30<!-- release_count ends --> of my released pr
 <br>platform for Taiwan tourism 🇹🇼
 * **[angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)**: [v1.0.0](https://github.com/delitamakanda/angular-qrcode-restaurant/releases/tag/v1.0.0) - 2026-04-07
 <br>cashier.tw clone with Angular 21
-* **[planner](https://github.com/delitamakanda/planner)**: [v1.0.0](https://github.com/delitamakanda/planner/releases/tag/v1.0.0) - 2026-02-28
-<br>planificateur de projets en django 6
 * **[faq-worker](https://github.com/delitamakanda/faq-worker)**: [v1.0.0](https://github.com/delitamakanda/faq-worker/releases/tag/v1.0.0) - 2025-10-29
 <br>Agent IA de foire aux questions pour mon portfolio pro
 * **[TripHelper](https://github.com/delitamakanda/TripHelper)**: [v1.0.0](https://github.com/delitamakanda/TripHelper/releases/tag/v1.0.0) - 2025-08-08
@@ -45,8 +43,6 @@ All <!-- release_count starts -->30<!-- release_count ends --> of my released pr
 <br>multi-tenant restaurant rest api
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 <br>checkout system restful api
-* **[blog-graphene](https://github.com/delitamakanda/blog-graphene)**: [v1.0.0](https://github.com/delitamakanda/blog-graphene/releases/tag/v1.0.0) - 2023-01-22
-<br>blog app with django graphene
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28
 <br>webscraper kr fashion shops with django and selenium
 * **[invoice-cms](https://github.com/delitamakanda/invoice-cms)**: [v1.0.0](https://github.com/delitamakanda/invoice-cms/releases/tag/v1.0.0) - 2022-03-07
