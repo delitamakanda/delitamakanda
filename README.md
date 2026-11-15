@@ -116,10 +116,10 @@ J’aime partir d’un besoin métier, comprendre le contexte, puis construire d
   <summary>⚡ Activité GitHub récente</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#96](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/96) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-2. 🔒 Closed issue [#98](https://github.com/delitamakanda/angular-qrcode-restaurant/issues/98) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-3. ℹ️ Assigned PR [#253](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/253) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
-4. 🗣 Commented on [#253](https://github.com/delitamakanda/angular-qrcode-restaurant/pull/253#issuecomment-6708044850) in [delitamakanda/angular-qrcode-restaurant](https://github.com/delitamakanda/angular-qrcode-restaurant)
+1. ℹ️ Labeled issue [#25](https://github.com/delitamakanda/angular-shopping-cart/issues/25) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+2. ❗ Opened issue [#25](https://github.com/delitamakanda/angular-shopping-cart/issues/25) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+3. ℹ️ Labeled issue [#24](https://github.com/delitamakanda/angular-shopping-cart/issues/24) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
+4. ❗ Opened issue [#24](https://github.com/delitamakanda/angular-shopping-cart/issues/24) in [delitamakanda/angular-shopping-cart](https://github.com/delitamakanda/angular-shopping-cart)
 <!--END_SECTION:activity-->
 
 </details>
