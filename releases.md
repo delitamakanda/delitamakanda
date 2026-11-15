@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->26<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[ingestion-api](https://github.com/delitamakanda/ingestion-api)**: [v0.1.0](https://github.com/delitamakanda/ingestion-api/releases/tag/v0.1.0) - 2026-09-04
@@ -33,14 +33,10 @@ All <!-- release_count starts -->28<!-- release_count ends --> of my released pr
 <br>standalone project for learning angular 22
 * **[frontendnation2024-workshops](https://github.com/delitamakanda/frontendnation2024-workshops)**: [v2.0.0](https://github.com/delitamakanda/frontendnation2024-workshops/releases/tag/v2.0.0) - 2024-06-10
 <br>Live coding sessions at Frontend Nation 2024
-* **[restaurant-front](https://github.com/delitamakanda/restaurant-front)**: [v1.0.0](https://github.com/delitamakanda/restaurant-front/releases/tag/v1.0.0) - 2024-05-20
-<br>front for restaurant app backend
 * **[portftolio](https://github.com/delitamakanda/portftolio)**: [v1.0.0](https://github.com/delitamakanda/portftolio/releases/tag/v1.0.0) - 2024-01-23
 <br>docusaurus portfolio
 * **[microfrontend](https://github.com/delitamakanda/microfrontend)**: [v1.0.0](https://github.com/delitamakanda/microfrontend/releases/tag/v1.0.0) - 2023-04-30
 <br>learning microfrontend architecture (wip)
-* **[restaurant](https://github.com/delitamakanda/restaurant)**: [v1.0.0](https://github.com/delitamakanda/restaurant/releases/tag/v1.0.0) - 2023-04-09
-<br>multi-tenant restaurant rest api
 * **[hapy-checkout-system-api](https://github.com/delitamakanda/hapy-checkout-system-api)**: [v0.1.0](https://github.com/delitamakanda/hapy-checkout-system-api/releases/tag/v0.1.0) - 2023-03-18
 <br>checkout system restful api
 * **[scraper-kr-fashion-shops](https://github.com/delitamakanda/scraper-kr-fashion-shops)**: [v1.0.0](https://github.com/delitamakanda/scraper-kr-fashion-shops/releases/tag/v1.0.0) - 2022-03-28
